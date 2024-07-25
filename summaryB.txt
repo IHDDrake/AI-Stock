@@ -1,0 +1,1216 @@
+JWN 2022-12-08 22:14:23.427495:
+Similarity: [0.9262241]
+Accuracy: 0.494579945799458
+Most recent Close price for JWN: 17.549999237060547
+Tomorrow's Predicted Close Price for JWN: [[19.98138]]
+The following day after Tomorrow is Predicted Close Price for JWN: [[19.847311]]
+Sell all positions Tomorrow
+
+UAA 2022-12-08 22:18:20.664590:
+Similarity: [0.95033514]
+Accuracy: 0.5
+Most recent Close price for UAA: 9.600000381469727
+Tomorrow's Predicted Close Price for UAA: [[10.1284485]]
+The following day after Tomorrow is Predicted Close Price for UAA: [[10.106434]]
+Sell all positions Tomorrow
+
+GPS 2022-12-08 22:22:13.110487:
+Similarity: [0.9488588]
+Accuracy: 0.5121951219512195
+Most recent Close price for GPS: 14.579999923706055
+Tomorrow's Predicted Close Price for GPS: [[14.462396]]
+The following day after Tomorrow is Predicted Close Price for GPS: [[14.427305]]
+Sell all positions ASAP
+
+IT 2022-12-08 22:26:00.918935:
+Similarity: [0.9697895]
+Accuracy: 0.540650406504065
+Most recent Close price for IT: 346.3999938964844
+Tomorrow's Predicted Close Price for IT: [[342.2323]]
+The following day after Tomorrow is Predicted Close Price for IT: [[339.8289]]
+Sell all positions ASAP
+
+IFF 2022-12-08 22:29:49.509462:
+Similarity: [0.9814174]
+Accuracy: 0.4932249322493225
+Most recent Close price for IFF: 107.69999694824219
+Tomorrow's Predicted Close Price for IFF: [[108.350555]]
+The following day after Tomorrow is Predicted Close Price for IFF: [[109.00725]]
+Hold and buy what you can of IFF, prepare to sell if conditions change
+
+UDR 2022-12-08 22:33:35.732127:
+Similarity: [0.9792482]
+Accuracy: 0.502710027100271
+Most recent Close price for UDR: 40.150001525878906
+Tomorrow's Predicted Close Price for UDR: [[39.683887]]
+The following day after Tomorrow is Predicted Close Price for UDR: [[39.649323]]
+Sell all positions ASAP
+
+L 2022-12-08 22:37:21.331749:
+Similarity: [0.9725709]
+Accuracy: 0.508130081300813
+Most recent Close price for L: 56.380001068115234
+Tomorrow's Predicted Close Price for L: [[55.30878]]
+The following day after Tomorrow is Predicted Close Price for L: [[54.9646]]
+Sell all positions ASAP
+
+HAS 2022-12-08 22:41:05.274247:
+Similarity: [0.9754463]
+Accuracy: 0.5298102981029811
+Most recent Close price for HAS: 60.04999923706055
+Tomorrow's Predicted Close Price for HAS: [[62.858807]]
+The following day after Tomorrow is Predicted Close Price for HAS: [[62.92066]]
+Hold and buy what you can of HAS, prepare to sell if conditions change
+
+WYNN 2022-12-08 22:44:51.395314:
+Similarity: [0.95777416]
+Accuracy: 0.5271002710027101
+Most recent Close price for WYNN: 86.43000030517578
+Tomorrow's Predicted Close Price for WYNN: [[86.170715]]
+The following day after Tomorrow is Predicted Close Price for WYNN: [[86.389755]]
+Buy what you can tomorrow and sell it the following day
+
+CNP 2022-12-08 22:48:35.368572:
+Similarity: [0.9766949]
+Accuracy: 0.5040650406504065
+Most recent Close price for CNP: 30.350000381469727
+Tomorrow's Predicted Close Price for CNP: [[30.120018]]
+The following day after Tomorrow is Predicted Close Price for CNP: [[30.03056]]
+Sell all positions ASAP
+
+LDOS 2022-12-08 22:52:22.949193:
+Similarity: [0.9686999]
+Accuracy: 0.46747967479674796
+Most recent Close price for LDOS: 109.08000183105469
+Tomorrow's Predicted Close Price for LDOS: [[105.023346]]
+The following day after Tomorrow is Predicted Close Price for LDOS: [[103.94014]]
+Sell all positions ASAP
+
+EXPD 2022-12-08 22:56:08.027662:
+Similarity: [0.9725295]
+Accuracy: 0.4878048780487805
+Most recent Close price for EXPD: 107.8499984741211
+Tomorrow's Predicted Close Price for EXPD: [[109.14364]]
+The following day after Tomorrow is Predicted Close Price for EXPD: [[107.92064]]
+Sell all positions Tomorrow
+
+FMC 2022-12-08 22:59:53.872206:
+Similarity: [0.97153145]
+Accuracy: 0.4796747967479675
+Most recent Close price for FMC: 127.98999786376953
+Tomorrow's Predicted Close Price for FMC: [[127.550644]]
+The following day after Tomorrow is Predicted Close Price for FMC: [[126.71205]]
+Sell all positions ASAP
+
+NVR 2022-12-08 23:03:40.808292:
+Similarity: [0.9597882]
+Accuracy: 0.5
+Most recent Close price for NVR: 4694.27978515625
+Tomorrow's Predicted Close Price for NVR: [[4507.002]]
+The following day after Tomorrow is Predicted Close Price for NVR: [[4489.0864]]
+Sell all positions ASAP
+
+EXR 2022-12-08 23:07:24.471993:
+Similarity: [0.97344023]
+Accuracy: 0.535230352303523
+Most recent Close price for EXR: 157.4600067138672
+Tomorrow's Predicted Close Price for EXR: [[161.08923]]
+The following day after Tomorrow is Predicted Close Price for EXR: [[161.1786]]
+Hold and buy what you can of EXR, prepare to sell if conditions change
+
+CBOE 2022-12-08 23:11:07.805157:
+Similarity: [0.98133457]
+Accuracy: 0.5826558265582655
+Most recent Close price for CBOE: 126.81999969482422
+Tomorrow's Predicted Close Price for CBOE: [[126.911934]]
+The following day after Tomorrow is Predicted Close Price for CBOE: [[126.49681]]
+Sell all positions Tomorrow
+
+AES 2022-12-08 23:14:52.219290:
+Similarity: [0.9727844]
+Accuracy: 0.5365853658536586
+Most recent Close price for AES: 28.34000015258789
+Tomorrow's Predicted Close Price for AES: [[28.220057]]
+The following day after Tomorrow is Predicted Close Price for AES: [[28.373825]]
+Buy what you can tomorrow and sell it the following day
+
+ATO 2022-12-08 23:18:56.912061:
+Similarity: [0.9796273]
+Accuracy: 0.513550135501355
+Most recent Close price for ATO: 117.5
+Tomorrow's Predicted Close Price for ATO: [[114.535675]]
+The following day after Tomorrow is Predicted Close Price for ATO: [[114.32388]]
+Sell all positions ASAP
+
+DRI 2022-12-08 23:23:02.330598:
+Similarity: [0.9647069]
+Accuracy: 0.508130081300813
+Most recent Close price for DRI: 143.77000427246094
+Tomorrow's Predicted Close Price for DRI: [[144.5113]]
+The following day after Tomorrow is Predicted Close Price for DRI: [[144.41953]]
+Sell all positions Tomorrow
+
+FOXA 2022-12-08 23:24:53.599019:
+Similarity: [0.9713576]
+Accuracy: 0.5284552845528455
+Most recent Close price for FOXA: 31.0
+Tomorrow's Predicted Close Price for FOXA: [[31.813437]]
+The following day after Tomorrow is Predicted Close Price for FOXA: [[31.591768]]
+Sell all positions Tomorrow
+
+URI 2022-12-08 23:28:46.272994:
+Similarity: [0.95983607]
+Accuracy: 0.4905149051490515
+Most recent Close price for URI: 361.6400146484375
+Tomorrow's Predicted Close Price for URI: [[344.89716]]
+The following day after Tomorrow is Predicted Close Price for URI: [[345.18344]]
+Buy what you can tomorrow and sell it the following day
+
+SIVB 2022-12-08 23:32:45.703734:
+Similarity: [0.96128386]
+Accuracy: 0.5067750677506775
+Most recent Close price for SIVB: 222.63999938964844
+Tomorrow's Predicted Close Price for SIVB: [[217.92427]]
+The following day after Tomorrow is Predicted Close Price for SIVB: [[216.69432]]
+Sell all positions ASAP
+
+IEX 2022-12-08 23:36:37.813110:
+Similarity: [0.9753025]
+Accuracy: 0.494579945799458
+Most recent Close price for IEX: 234.13999938964844
+Tomorrow's Predicted Close Price for IEX: [[234.13469]]
+The following day after Tomorrow is Predicted Close Price for IEX: [[232.9886]]
+Sell all positions ASAP
+
+ABC 2022-12-08 23:40:28.812691:
+Similarity: [0.9807896]
+Accuracy: 0.5121951219512195
+Most recent Close price for ABC: 170.4600067138672
+Tomorrow's Predicted Close Price for ABC: [[169.46356]]
+The following day after Tomorrow is Predicted Close Price for ABC: [[169.4568]]
+Sell all positions ASAP
+
+STE 2022-12-08 23:44:25.032510:
+Similarity: [0.972102]
+Accuracy: 0.497289972899729
+Most recent Close price for STE: 190.27999877929688
+Tomorrow's Predicted Close Price for STE: [[183.94586]]
+The following day after Tomorrow is Predicted Close Price for STE: [[183.33282]]
+Sell all positions ASAP
+
+LNT 2022-12-08 23:48:10.143371:
+Similarity: [0.9814838]
+Accuracy: 0.508130081300813
+Most recent Close price for LNT: 55.470001220703125
+Tomorrow's Predicted Close Price for LNT: [[54.542942]]
+The following day after Tomorrow is Predicted Close Price for LNT: [[54.531918]]
+Sell all positions ASAP
+
+NCLH 2022-12-08 23:51:56.160308:
+Similarity: [0.93026257]
+Accuracy: 0.4986449864498645
+Most recent Close price for NCLH: 15.720000267028809
+Tomorrow's Predicted Close Price for NCLH: [[16.97585]]
+The following day after Tomorrow is Predicted Close Price for NCLH: [[16.905107]]
+Sell all positions Tomorrow
+
+XRAY 2022-12-08 23:55:42.874408:
+Similarity: [0.9699009]
+Accuracy: 0.48509485094850946
+Most recent Close price for XRAY: 30.280000686645508
+Tomorrow's Predicted Close Price for XRAY: [[30.805447]]
+The following day after Tomorrow is Predicted Close Price for XRAY: [[30.679045]]
+Sell all positions Tomorrow
+
+DRE 2022-12-08 23:59:25.821935:
+Similarity: [0.9731676]
+Accuracy: 0.45379310344827584
+Most recent Close price for DRE: 48.20000076293945
+Tomorrow's Predicted Close Price for DRE: [[47.733517]]
+The following day after Tomorrow is Predicted Close Price for DRE: [[47.68734]]
+Sell all positions ASAP
+
+LW 2022-12-09 00:02:18.615119:
+Similarity: [0.97194463]
+Accuracy: 0.5094850948509485
+Most recent Close price for LW: 86.5
+Tomorrow's Predicted Close Price for LW: [[86.07573]]
+The following day after Tomorrow is Predicted Close Price for LW: [[85.82754]]
+Sell all positions ASAP
+
+NDAQ 2022-12-09 00:06:03.584245:
+Similarity: [0.96171886]
+Accuracy: 0.4823848238482385
+Most recent Close price for NDAQ: 64.19000244140625
+Tomorrow's Predicted Close Price for NDAQ: [[64.487625]]
+The following day after Tomorrow is Predicted Close Price for NDAQ: [[63.828243]]
+Sell all positions Tomorrow
+
+HRL 2022-12-09 00:09:48.973798:
+Similarity: [0.98292]
+Accuracy: 0.5040650406504065
+Most recent Close price for HRL: 47.650001525878906
+Tomorrow's Predicted Close Price for HRL: [[46.744003]]
+The following day after Tomorrow is Predicted Close Price for HRL: [[46.779774]]
+Buy what you can tomorrow and sell it the following day
+
+J 2022-12-09 00:13:34.643039:
+Similarity: [0.9743736]
+Accuracy: 0.5013550135501355
+Most recent Close price for J: 122.05000305175781
+Tomorrow's Predicted Close Price for J: [[123.47812]]
+The following day after Tomorrow is Predicted Close Price for J: [[123.25506]]
+Sell all positions Tomorrow
+
+ARNC 2022-12-09 00:14:53.152333:
+Similarity: [0.93333334]
+Accuracy: 0.507396449704142
+Most recent Close price for ARNC: 22.040000915527344
+Tomorrow's Predicted Close Price for ARNC: [[22.836613]]
+The following day after Tomorrow is Predicted Close Price for ARNC: [[22.844015]]
+Hold and buy what you can of ARNC, prepare to sell if conditions change
+
+ODFL 2022-12-09 00:18:37.668575:
+Similarity: [0.96109027]
+Accuracy: 0.494579945799458
+Most recent Close price for ODFL: 287.2699890136719
+Tomorrow's Predicted Close Price for ODFL: [[285.6764]]
+The following day after Tomorrow is Predicted Close Price for ODFL: [[284.0231]]
+Sell all positions ASAP
+
+LNC 2022-12-09 00:22:26.732819:
+Similarity: [0.95729476]
+Accuracy: 0.5067750677506775
+Most recent Close price for LNC: 31.450000762939453
+Tomorrow's Predicted Close Price for LNC: [[37.214096]]
+The following day after Tomorrow is Predicted Close Price for LNC: [[36.249516]]
+Sell all positions Tomorrow
+
+SJM 2022-12-09 00:26:33.555752:
+Similarity: [0.9848506]
+Accuracy: 0.4878048780487805
+Most recent Close price for SJM: 155.49000549316406
+Tomorrow's Predicted Close Price for SJM: [[155.16869]]
+The following day after Tomorrow is Predicted Close Price for SJM: [[155.22319]]
+Buy what you can tomorrow and sell it the following day
+
+ALLE 2022-12-09 00:30:34.597096:
+Similarity: [0.9708793]
+Accuracy: 0.4878048780487805
+Most recent Close price for ALLE: 110.86000061035156
+Tomorrow's Predicted Close Price for ALLE: [[108.70999]]
+The following day after Tomorrow is Predicted Close Price for ALLE: [[108.06937]]
+Sell all positions ASAP
+
+UHS 2022-12-09 00:34:24.310576:
+Similarity: [0.9767895]
+Accuracy: 0.513550135501355
+Most recent Close price for UHS: 129.61000061035156
+Tomorrow's Predicted Close Price for UHS: [[128.87663]]
+The following day after Tomorrow is Predicted Close Price for UHS: [[129.45236]]
+Buy what you can tomorrow and sell it the following day
+
+WU 2022-12-09 00:38:18.676135:
+Similarity: [0.97841674]
+Accuracy: 0.537940379403794
+Most recent Close price for WU: 13.90999984741211
+Tomorrow's Predicted Close Price for WU: [[13.886063]]
+The following day after Tomorrow is Predicted Close Price for WU: [[13.805438]]
+Sell all positions ASAP
+
+AAP 2022-12-09 00:42:08.349711:
+Similarity: [0.973581]
+Accuracy: 0.481029810298103
+Most recent Close price for AAP: 146.58999633789062
+Tomorrow's Predicted Close Price for AAP: [[147.49802]]
+The following day after Tomorrow is Predicted Close Price for AAP: [[146.46393]]
+Sell all positions Tomorrow
+
+AAL 2022-12-09 00:46:01.412544:
+Similarity: [0.94967633]
+Accuracy: 0.516260162601626
+Most recent Close price for AAL: 13.600000381469727
+Tomorrow's Predicted Close Price for AAL: [[14.210748]]
+The following day after Tomorrow is Predicted Close Price for AAL: [[14.150325]]
+Sell all positions Tomorrow
+
+JKHY 2022-12-09 00:49:52.731170:
+Similarity: [0.97900677]
+Accuracy: 0.5460704607046071
+Most recent Close price for JKHY: 184.9199981689453
+Tomorrow's Predicted Close Price for JKHY: [[185.29187]]
+The following day after Tomorrow is Predicted Close Price for JKHY: [[184.60965]]
+Sell all positions Tomorrow
+
+RJF 2022-12-09 00:53:45.674469:
+Similarity: [0.9700332]
+Accuracy: 0.5149051490514905
+Most recent Close price for RJF: 113.66000366210938
+Tomorrow's Predicted Close Price for RJF: [[115.07811]]
+The following day after Tomorrow is Predicted Close Price for RJF: [[114.26002]]
+Sell all positions Tomorrow
+
+ANET 2022-12-09 00:57:47.619877:
+Similarity: [0.9679523]
+Accuracy: 0.5
+Most recent Close price for ANET: 128.1300048828125
+Tomorrow's Predicted Close Price for ANET: [[130.07997]]
+The following day after Tomorrow is Predicted Close Price for ANET: [[128.9368]]
+Sell all positions Tomorrow
+
+RE 2022-12-09 01:01:58.752945:
+Similarity: [0.9768613]
+Accuracy: 0.4878048780487805
+Most recent Close price for RE: 333.739990234375
+Tomorrow's Predicted Close Price for RE: [[324.6014]]
+The following day after Tomorrow is Predicted Close Price for RE: [[320.6421]]
+Sell all positions ASAP
+
+AVY 2022-12-09 01:06:46.968724:
+Similarity: [0.971498]
+Accuracy: 0.4905149051490515
+Most recent Close price for AVY: 179.22000122070312
+Tomorrow's Predicted Close Price for AVY: [[192.71194]]
+The following day after Tomorrow is Predicted Close Price for AVY: [[191.91045]]
+Sell all positions Tomorrow
+
+LKQ 2022-12-09 01:11:58.511129:
+Similarity: [0.96837264]
+Accuracy: 0.524390243902439
+Most recent Close price for LKQ: 53.459999084472656
+Tomorrow's Predicted Close Price for LKQ: [[53.4126]]
+The following day after Tomorrow is Predicted Close Price for LKQ: [[53.191826]]
+Sell all positions ASAP
+
+TSCO 2022-12-09 01:16:11.696756:
+Similarity: [0.96694726]
+Accuracy: 0.489159891598916
+Most recent Close price for TSCO: 219.52000427246094
+Tomorrow's Predicted Close Price for TSCO: [[217.74013]]
+The following day after Tomorrow is Predicted Close Price for TSCO: [[217.009]]
+Sell all positions ASAP
+
+WRK 2022-12-09 01:20:14.515442:
+Similarity: [0.97029]
+Accuracy: 0.5487804878048781
+Most recent Close price for WRK: 36.0
+Tomorrow's Predicted Close Price for WRK: [[36.63659]]
+The following day after Tomorrow is Predicted Close Price for WRK: [[36.35573]]
+Sell all positions Tomorrow
+
+MRO 2022-12-09 01:24:17.162385:
+Similarity: [0.9366952]
+Accuracy: 0.4986449864498645
+Most recent Close price for MRO: 26.84000015258789
+Tomorrow's Predicted Close Price for MRO: [[27.112463]]
+The following day after Tomorrow is Predicted Close Price for MRO: [[26.841085]]
+Sell all positions Tomorrow
+
+PKI 2022-12-09 01:28:16.957196:
+Similarity: [0.9721581]
+Accuracy: 0.5013550135501355
+Most recent Close price for PKI: 141.94000244140625
+Tomorrow's Predicted Close Price for PKI: [[139.41495]]
+The following day after Tomorrow is Predicted Close Price for PKI: [[139.52652]]
+Buy what you can tomorrow and sell it the following day
+
+EMN 2022-12-09 01:32:31.533498:
+Similarity: [0.97393054]
+Accuracy: 0.4932249322493225
+Most recent Close price for EMN: 85.26000213623047
+Tomorrow's Predicted Close Price for EMN: [[85.409485]]
+The following day after Tomorrow is Predicted Close Price for EMN: [[85.13098]]
+Sell all positions Tomorrow
+
+CHRW 2022-12-09 01:36:31.517253:
+Similarity: [0.98208654]
+Accuracy: 0.46747967479674796
+Most recent Close price for CHRW: 96.08000183105469
+Tomorrow's Predicted Close Price for CHRW: [[95.36158]]
+The following day after Tomorrow is Predicted Close Price for CHRW: [[95.288025]]
+Sell all positions ASAP
+
+CMA 2022-12-09 01:41:23.460066:
+Similarity: [0.96240324]
+Accuracy: 0.5176151761517616
+Most recent Close price for CMA: 65.18000030517578
+Tomorrow's Predicted Close Price for CMA: [[66.87779]]
+The following day after Tomorrow is Predicted Close Price for CMA: [[66.010155]]
+Sell all positions Tomorrow
+
+GL 2022-12-09 01:45:19.618646:
+Similarity: [0.97750056]
+Accuracy: 0.5257452574525745
+Most recent Close price for GL: 117.61000061035156
+Tomorrow's Predicted Close Price for GL: [[115.58583]]
+The following day after Tomorrow is Predicted Close Price for GL: [[114.32896]]
+Sell all positions ASAP
+
+PKG 2022-12-09 01:49:10.201384:
+Similarity: [0.97317684]
+Accuracy: 0.5094850948509485
+Most recent Close price for PKG: 135.9600067138672
+Tomorrow's Predicted Close Price for PKG: [[133.97227]]
+The following day after Tomorrow is Predicted Close Price for PKG: [[133.46687]]
+Sell all positions ASAP
+
+VNO 2022-12-09 01:53:06.899105:
+Similarity: [0.9576596]
+Accuracy: 0.5176151761517616
+Most recent Close price for VNO: 21.450000762939453
+Tomorrow's Predicted Close Price for VNO: [[23.503445]]
+The following day after Tomorrow is Predicted Close Price for VNO: [[22.993862]]
+Sell all positions Tomorrow
+
+REG 2022-12-09 01:56:58.401720:
+Similarity: [0.97397995]
+Accuracy: 0.494579945799458
+Most recent Close price for REG: 65.95999908447266
+Tomorrow's Predicted Close Price for REG: [[65.72241]]
+The following day after Tomorrow is Predicted Close Price for REG: [[65.859535]]
+Buy what you can tomorrow and sell it the following day
+
+HII 2022-12-09 02:00:46.965837:
+Similarity: [0.9774525]
+Accuracy: 0.494579945799458
+Most recent Close price for HII: 235.24000549316406
+Tomorrow's Predicted Close Price for HII: [[236.15239]]
+The following day after Tomorrow is Predicted Close Price for HII: [[235.84549]]
+Sell all positions Tomorrow
+
+CF 2022-12-09 02:04:36.613306:
+Similarity: [0.96077067]
+Accuracy: 0.524390243902439
+Most recent Close price for CF: 100.13999938964844
+Tomorrow's Predicted Close Price for CF: [[103.3996]]
+The following day after Tomorrow is Predicted Close Price for CF: [[102.88533]]
+Sell all positions Tomorrow
+
+TXT 2022-12-09 02:09:04.001539:
+Similarity: [0.9675327]
+Accuracy: 0.532520325203252
+Most recent Close price for TXT: 73.0
+Tomorrow's Predicted Close Price for TXT: [[71.46864]]
+The following day after Tomorrow is Predicted Close Price for TXT: [[71.77678]]
+Buy what you can tomorrow and sell it the following day
+
+LYV 2022-12-09 02:12:59.618578:
+Similarity: [0.96520543]
+Accuracy: 0.5040650406504065
+Most recent Close price for LYV: 71.47000122070312
+Tomorrow's Predicted Close Price for LYV: [[73.07816]]
+The following day after Tomorrow is Predicted Close Price for LYV: [[72.57744]]
+Sell all positions Tomorrow
+
+NI 2022-12-09 02:16:51.446053:
+Similarity: [0.9822725]
+Accuracy: 0.5311653116531165
+Most recent Close price for NI: 27.770000457763672
+Tomorrow's Predicted Close Price for NI: [[27.936941]]
+The following day after Tomorrow is Predicted Close Price for NI: [[28.02582]]
+Hold and buy what you can of NI, prepare to sell if conditions change
+
+TAP 2022-12-09 02:21:05.392551:
+Similarity: [0.9686705]
+Accuracy: 0.46476964769647694
+Most recent Close price for TAP: 52.65999984741211
+Tomorrow's Predicted Close Price for TAP: [[54.50669]]
+The following day after Tomorrow is Predicted Close Price for TAP: [[54.155647]]
+Sell all positions Tomorrow
+
+DVN 2022-12-09 02:25:46.660333:
+Similarity: [0.94437724]
+Accuracy: 0.5284552845528455
+Most recent Close price for DVN: 63.5
+Tomorrow's Predicted Close Price for DVN: [[63.44954]]
+The following day after Tomorrow is Predicted Close Price for DVN: [[62.68426]]
+Sell all positions ASAP
+
+PNW 2022-12-09 02:29:27.201409:
+Similarity: [0.984041]
+Accuracy: 0.4878048780487805
+Most recent Close price for PNW: 77.77999877929688
+Tomorrow's Predicted Close Price for PNW: [[77.59743]]
+The following day after Tomorrow is Predicted Close Price for PNW: [[77.54047]]
+Sell all positions ASAP
+
+JBHT 2022-12-09 03:03:14.128253:
+Similarity: [0.97574663]
+Accuracy: 0.521680216802168
+Most recent Close price for JBHT: 177.91000366210938
+Tomorrow's Predicted Close Price for JBHT: [[177.87703]]
+The following day after Tomorrow is Predicted Close Price for JBHT: [[177.13776]]
+Sell all positions ASAP
+
+PHM 2022-12-09 03:15:46.904262:
+Similarity: [0.96727115]
+Accuracy: 0.4932249322493225
+Most recent Close price for PHM: 44.40999984741211
+Tomorrow's Predicted Close Price for PHM: [[43.63723]]
+The following day after Tomorrow is Predicted Close Price for PHM: [[43.6335]]
+Sell all positions ASAP
+
+WRB 2022-12-09 03:28:24.155006:
+Similarity: [0.97442406]
+Accuracy: 0.5094850948509485
+Most recent Close price for WRB: 74.44000244140625
+Tomorrow's Predicted Close Price for WRB: [[73.91453]]
+The following day after Tomorrow is Predicted Close Price for WRB: [[73.7045]]
+Sell all positions ASAP
+
+NRG 2022-12-09 04:19:59.284241:
+Similarity: [0.9696309]
+Accuracy: 0.5013550135501355
+Most recent Close price for NRG: 32.18000030517578
+Tomorrow's Predicted Close Price for NRG: [[36.019188]]
+The following day after Tomorrow is Predicted Close Price for NRG: [[34.474396]]
+Sell all positions Tomorrow
+
+HSIC 2022-12-09 04:23:52.135352:
+Similarity: [0.9803747]
+Accuracy: 0.5040650406504065
+Most recent Close price for HSIC: 81.31999969482422
+Tomorrow's Predicted Close Price for HSIC: [[80.17734]]
+The following day after Tomorrow is Predicted Close Price for HSIC: [[80.21725]]
+Buy what you can tomorrow and sell it the following day
+
+APA 2022-12-09 04:27:34.582949:
+Similarity: [0.9439787]
+Accuracy: 0.5094850948509485
+Most recent Close price for APA: 42.77000045776367
+Tomorrow's Predicted Close Price for APA: [[44.05122]]
+The following day after Tomorrow is Predicted Close Price for APA: [[43.388283]]
+Sell all positions Tomorrow
+
+DXC 2022-12-09 04:31:11.026924:
+Similarity: [0.9530782]
+Accuracy: 0.510840108401084
+Most recent Close price for DXC: 26.729999542236328
+Tomorrow's Predicted Close Price for DXC: [[28.228758]]
+The following day after Tomorrow is Predicted Close Price for DXC: [[27.768568]]
+Sell all positions Tomorrow
+
+NOV 2022-12-09 04:34:48.219438:
+Similarity: [0.95387995]
+Accuracy: 0.5203252032520326
+Most recent Close price for NOV: 20.309999465942383
+Tomorrow's Predicted Close Price for NOV: [[20.995396]]
+The following day after Tomorrow is Predicted Close Price for NOV: [[20.668436]]
+Sell all positions Tomorrow
+
+SNA 2022-12-09 04:38:34.306479:
+Similarity: [0.9755064]
+Accuracy: 0.508130081300813
+Most recent Close price for SNA: 234.16000366210938
+Tomorrow's Predicted Close Price for SNA: [[234.9383]]
+The following day after Tomorrow is Predicted Close Price for SNA: [[233.27155]]
+Sell all positions Tomorrow
+
+DISH 2022-12-09 04:42:10.892601:
+Similarity: [0.9546574]
+Accuracy: 0.5067750677506775
+Most recent Close price for DISH: 14.619999885559082
+Tomorrow's Predicted Close Price for DISH: [[13.891073]]
+The following day after Tomorrow is Predicted Close Price for DISH: [[13.581505]]
+Sell all positions ASAP
+
+FBHS 2022-12-09 04:45:47.753696:
+Similarity: [0.9659418]
+Accuracy: 0.513550135501355
+Most recent Close price for FBHS: 60.77000045776367
+Tomorrow's Predicted Close Price for FBHS: [[61.550385]]
+The following day after Tomorrow is Predicted Close Price for FBHS: [[61.08656]]
+Sell all positions Tomorrow
+
+WHR 2022-12-09 04:49:24.861756:
+Similarity: [0.9715258]
+Accuracy: 0.5365853658536586
+Most recent Close price for WHR: 145.36000061035156
+Tomorrow's Predicted Close Price for WHR: [[145.63005]]
+The following day after Tomorrow is Predicted Close Price for WHR: [[145.81094]]
+Hold and buy what you can of WHR, prepare to sell if conditions change
+
+ZION 2022-12-09 04:53:02.488793:
+Similarity: [0.96998763]
+Accuracy: 0.5149051490514905
+Most recent Close price for ZION: 47.380001068115234
+Tomorrow's Predicted Close Price for ZION: [[47.032337]]
+The following day after Tomorrow is Predicted Close Price for ZION: [[46.491062]]
+Sell all positions ASAP
+
+IRM 2022-12-09 04:56:39.496629:
+Similarity: [0.9718035]
+Accuracy: 0.4823848238482385
+Most recent Close price for IRM: 54.61000061035156
+Tomorrow's Predicted Close Price for IRM: [[53.449417]]
+The following day after Tomorrow is Predicted Close Price for IRM: [[53.010506]]
+Sell all positions ASAP
+
+BWA 2022-12-09 05:00:16.409377:
+Similarity: [0.9729363]
+Accuracy: 0.5040650406504065
+Most recent Close price for BWA: 40.7400016784668
+Tomorrow's Predicted Close Price for BWA: [[40.798393]]
+The following day after Tomorrow is Predicted Close Price for BWA: [[40.50331]]
+Sell all positions Tomorrow
+
+FRT 2022-12-09 05:03:52.339774:
+Similarity: [0.9725806]
+Accuracy: 0.4986449864498645
+Most recent Close price for FRT: 107.70999908447266
+Tomorrow's Predicted Close Price for FRT: [[107.57938]]
+The following day after Tomorrow is Predicted Close Price for FRT: [[107.52006]]
+Sell all positions ASAP
+
+IPG 2022-12-09 05:07:28.307784:
+Similarity: [0.9706337]
+Accuracy: 0.518970189701897
+Most recent Close price for IPG: 32.150001525878906
+Tomorrow's Predicted Close Price for IPG: [[32.0191]]
+The following day after Tomorrow is Predicted Close Price for IPG: [[31.761072]]
+Sell all positions ASAP
+
+FTI 2022-12-09 05:11:06.422997:
+Similarity: [0.93478286]
+Accuracy: 0.497289972899729
+Most recent Close price for FTI: 11.649999618530273
+Tomorrow's Predicted Close Price for FTI: [[12.13614]]
+The following day after Tomorrow is Predicted Close Price for FTI: [[12.003491]]
+Sell all positions Tomorrow
+
+KIM 2022-12-09 05:14:43.319222:
+Similarity: [0.96649885]
+Accuracy: 0.5121951219512195
+Most recent Close price for KIM: 21.75
+Tomorrow's Predicted Close Price for KIM: [[22.402325]]
+The following day after Tomorrow is Predicted Close Price for KIM: [[22.329247]]
+Sell all positions Tomorrow
+
+ALK 2022-12-09 05:18:20.366193:
+Similarity: [0.9636213]
+Accuracy: 0.5298102981029811
+Most recent Close price for ALK: 44.060001373291016
+Tomorrow's Predicted Close Price for ALK: [[45.836296]]
+The following day after Tomorrow is Predicted Close Price for ALK: [[45.29019]]
+Sell all positions Tomorrow
+
+CPB 2022-12-09 05:21:58.644523:
+Similarity: [0.983697]
+Accuracy: 0.524390243902439
+Most recent Close price for CPB: 57.06999969482422
+Tomorrow's Predicted Close Price for CPB: [[55.27557]]
+The following day after Tomorrow is Predicted Close Price for CPB: [[55.91752]]
+Buy what you can tomorrow and sell it the following day
+
+JNPR 2022-12-09 05:25:37.909040:
+Similarity: [0.9797223]
+Accuracy: 0.518970189701897
+Most recent Close price for JNPR: 32.45000076293945
+Tomorrow's Predicted Close Price for JNPR: [[31.456413]]
+The following day after Tomorrow is Predicted Close Price for JNPR: [[31.26939]]
+Sell all positions ASAP
+
+FFIV 2022-12-09 05:29:15.179668:
+Similarity: [0.9749664]
+Accuracy: 0.4986449864498645
+Most recent Close price for FFIV: 151.97000122070312
+Tomorrow's Predicted Close Price for FFIV: [[151.08315]]
+The following day after Tomorrow is Predicted Close Price for FFIV: [[150.89488]]
+Sell all positions ASAP
+
+KSS 2022-12-09 05:32:54.314176:
+Similarity: [0.94344276]
+Accuracy: 0.516260162601626
+Most recent Close price for KSS: 27.100000381469727
+Tomorrow's Predicted Close Price for KSS: [[29.827644]]
+The following day after Tomorrow is Predicted Close Price for KSS: [[29.301876]]
+Sell all positions Tomorrow
+
+MHK 2022-12-09 05:36:33.611397:
+Similarity: [0.9591397]
+Accuracy: 0.5311653116531165
+Most recent Close price for MHK: 97.25
+Tomorrow's Predicted Close Price for MHK: [[99.40715]]
+The following day after Tomorrow is Predicted Close Price for MHK: [[98.67399]]
+Sell all positions Tomorrow
+
+AIZ 2022-12-09 05:40:12.136357:
+Similarity: [0.9743246]
+Accuracy: 0.524390243902439
+Most recent Close price for AIZ: 130.02999877929688
+Tomorrow's Predicted Close Price for AIZ: [[131.87685]]
+The following day after Tomorrow is Predicted Close Price for AIZ: [[132.36566]]
+Hold and buy what you can of AIZ, prepare to sell if conditions change
+
+TPR 2022-12-09 05:43:50.070839:
+Similarity: [0.9561012]
+Accuracy: 0.510840108401084
+Most recent Close price for TPR: 36.93000030517578
+Tomorrow's Predicted Close Price for TPR: [[37.087284]]
+The following day after Tomorrow is Predicted Close Price for TPR: [[36.805973]]
+Sell all positions Tomorrow
+
+PVH 2022-12-09 05:47:28.277856:
+Similarity: [0.955587]
+Accuracy: 0.481029810298103
+Most recent Close price for PVH: 75.76000213623047
+Tomorrow's Predicted Close Price for PVH: [[73.27574]]
+The following day after Tomorrow is Predicted Close Price for PVH: [[73.49704]]
+Buy what you can tomorrow and sell it the following day
+
+PNR 2022-12-09 05:51:06.389880:
+Similarity: [0.97535247]
+Accuracy: 0.5230352303523035
+Most recent Close price for PNR: 44.84000015258789
+Tomorrow's Predicted Close Price for PNR: [[45.24083]]
+The following day after Tomorrow is Predicted Close Price for PNR: [[45.01097]]
+Sell all positions Tomorrow
+
+ALB 2022-12-09 05:54:43.169788:
+Similarity: [0.9452771]
+Accuracy: 0.5176151761517616
+Most recent Close price for ALB: 256.0299987792969
+Tomorrow's Predicted Close Price for ALB: [[248.931]]
+The following day after Tomorrow is Predicted Close Price for ALB: [[244.90166]]
+Sell all positions ASAP
+
+AIV 2022-12-09 05:58:20.386761:
+Similarity: [0.97298837]
+Accuracy: 0.470189701897019
+Most recent Close price for AIV: 8.149999618530273
+Tomorrow's Predicted Close Price for AIV: [[7.9565234]]
+The following day after Tomorrow is Predicted Close Price for AIV: [[7.9425964]]
+Sell all positions ASAP
+
+SLG 2022-12-09 06:01:57.916021:
+Similarity: [0.95584816]
+Accuracy: 0.518970189701897
+Most recent Close price for SLG: 35.0099983215332
+Tomorrow's Predicted Close Price for SLG: [[39.768932]]
+The following day after Tomorrow is Predicted Close Price for SLG: [[38.983433]]
+Sell all positions Tomorrow
+
+ABMD 2022-12-09 06:05:35.293951:
+Similarity: [0.96649474]
+Accuracy: 0.5067750677506775
+Most recent Close price for ABMD: 380.75
+Tomorrow's Predicted Close Price for ABMD: [[374.42166]]
+The following day after Tomorrow is Predicted Close Price for ABMD: [[373.96655]]
+Sell all positions ASAP
+
+NWL 2022-12-09 06:09:15.500153:
+Similarity: [0.96191907]
+Accuracy: 0.5203252032520326
+Most recent Close price for NWL: 13.300000190734863
+Tomorrow's Predicted Close Price for NWL: [[13.747678]]
+The following day after Tomorrow is Predicted Close Price for NWL: [[13.853433]]
+Hold and buy what you can of NWL, prepare to sell if conditions change
+
+BEN 2022-12-09 06:12:55.689965:
+Similarity: [0.96743584]
+Accuracy: 0.524390243902439
+Most recent Close price for BEN: 26.8700008392334
+Tomorrow's Predicted Close Price for BEN: [[26.41899]]
+The following day after Tomorrow is Predicted Close Price for BEN: [[26.268747]]
+Sell all positions ASAP
+
+MOS 2022-12-09 06:16:33.409410:
+Similarity: [0.95905167]
+Accuracy: 0.5149051490514905
+Most recent Close price for MOS: 47.0
+Tomorrow's Predicted Close Price for MOS: [[47.30501]]
+The following day after Tomorrow is Predicted Close Price for MOS: [[46.999283]]
+Sell all positions Tomorrow
+
+RHI 2022-12-09 06:20:11.665969:
+Similarity: [0.9733947]
+Accuracy: 0.4986449864498645
+Most recent Close price for RHI: 73.01000213623047
+Tomorrow's Predicted Close Price for RHI: [[75.1552]]
+The following day after Tomorrow is Predicted Close Price for RHI: [[74.39974]]
+Sell all positions Tomorrow
+
+XRX 2022-12-09 06:23:49.333523:
+Similarity: [0.96626264]
+Accuracy: 0.5149051490514905
+Most recent Close price for XRX: 15.960000038146973
+Tomorrow's Predicted Close Price for XRX: [[16.349766]]
+The following day after Tomorrow is Predicted Close Price for XRX: [[16.281551]]
+Sell all positions Tomorrow
+
+MSFT 2022-12-09 06:27:28.668814:
+Similarity: [0.9625136]
+Accuracy: 0.4959349593495935
+Most recent Close price for MSFT: 247.39999389648438
+Tomorrow's Predicted Close Price for MSFT: [[242.65901]]
+The following day after Tomorrow is Predicted Close Price for MSFT: [[241.97296]]
+Sell all positions ASAP
+
+AAPL 2022-12-09 06:31:06.986516:
+Similarity: [0.96861017]
+Accuracy: 0.524390243902439
+Most recent Close price for AAPL: 142.64999389648438
+Tomorrow's Predicted Close Price for AAPL: [[145.29321]]
+The following day after Tomorrow is Predicted Close Price for AAPL: [[144.80109]]
+Sell all positions Tomorrow
+
+AMZN 2022-12-09 06:34:45.698926:
+Similarity: [0.96793205]
+Accuracy: 0.5067750677506775
+Most recent Close price for AMZN: 90.3499984741211
+Tomorrow's Predicted Close Price for AMZN: [[94.892654]]
+The following day after Tomorrow is Predicted Close Price for AMZN: [[94.40744]]
+Sell all positions Tomorrow
+
+JPM 2022-12-09 06:38:25.442411:
+Similarity: [0.9761806]
+Accuracy: 0.505420054200542
+Most recent Close price for JPM: 132.8800048828125
+Tomorrow's Predicted Close Price for JPM: [[131.72144]]
+The following day after Tomorrow is Predicted Close Price for JPM: [[131.09364]]
+Sell all positions ASAP
+
+GOOGL 2022-12-09 06:42:03.516968:
+Similarity: [0.9582832]
+Accuracy: 0.481029810298103
+Most recent Close price for GOOGL: 93.70999908447266
+Tomorrow's Predicted Close Price for GOOGL: [[95.61953]]
+The following day after Tomorrow is Predicted Close Price for GOOGL: [[95.07918]]
+Sell all positions Tomorrow
+
+GOOG 2022-12-09 06:45:40.967634:
+Similarity: [0.97032917]
+Accuracy: 0.5067750677506775
+Most recent Close price for GOOG: 93.94999694824219
+Tomorrow's Predicted Close Price for GOOG: [[99.403656]]
+The following day after Tomorrow is Predicted Close Price for GOOG: [[99.01941]]
+Sell all positions Tomorrow
+
+JNJ 2022-12-09 06:49:19.245645:
+Similarity: [0.98561156]
+Accuracy: 0.5
+Most recent Close price for JNJ: 177.1999969482422
+Tomorrow's Predicted Close Price for JNJ: [[176.81052]]
+The following day after Tomorrow is Predicted Close Price for JNJ: [[176.44177]]
+Sell all positions ASAP
+
+V 2022-12-09 06:52:57.424042:
+Similarity: [0.97386646]
+Accuracy: 0.5230352303523035
+Most recent Close price for V: 209.10000610351562
+Tomorrow's Predicted Close Price for V: [[210.8406]]
+The following day after Tomorrow is Predicted Close Price for V: [[210.02165]]
+Sell all positions Tomorrow
+
+PG 2022-12-09 06:56:36.059169:
+Similarity: [0.9721209]
+Accuracy: 0.540650406504065
+Most recent Close price for PG: 151.32000732421875
+Tomorrow's Predicted Close Price for PG: [[153.43869]]
+The following day after Tomorrow is Predicted Close Price for PG: [[153.99858]]
+Hold and buy what you can of PG, prepare to sell if conditions change
+
+XOM 2022-12-09 07:00:14.072058:
+Similarity: [0.9686901]
+Accuracy: 0.5094850948509485
+Most recent Close price for XOM: 104.41999816894531
+Tomorrow's Predicted Close Price for XOM: [[106.82471]]
+The following day after Tomorrow is Predicted Close Price for XOM: [[106.38432]]
+Sell all positions Tomorrow
+
+T 2022-12-09 07:03:52.181317:
+Similarity: [0.97934794]
+Accuracy: 0.508130081300813
+Most recent Close price for T: 19.1200008392334
+Tomorrow's Predicted Close Price for T: [[19.173548]]
+The following day after Tomorrow is Predicted Close Price for T: [[19.20073]]
+Hold and buy what you can of T, prepare to sell if conditions change
+
+BAC 2022-12-09 07:07:30.771735:
+Similarity: [0.9734559]
+Accuracy: 0.5094850948509485
+Most recent Close price for BAC: 32.439998626708984
+Tomorrow's Predicted Close Price for BAC: [[33.766476]]
+The following day after Tomorrow is Predicted Close Price for BAC: [[33.17729]]
+Sell all positions Tomorrow
+
+UNH 2022-12-09 07:11:11.807624:
+Similarity: [0.93942934]
+Accuracy: 0.47560975609756095
+Most recent Close price for UNH: 547.9199829101562
+Tomorrow's Predicted Close Price for UNH: [[503.52298]]
+The following day after Tomorrow is Predicted Close Price for UNH: [[502.91028]]
+Sell all positions ASAP
+
+MA 2022-12-09 07:14:50.610591:
+Similarity: [0.9657433]
+Accuracy: 0.4986449864498645
+Most recent Close price for MA: 351.1700134277344
+Tomorrow's Predicted Close Price for MA: [[344.25446]]
+The following day after Tomorrow is Predicted Close Price for MA: [[342.41342]]
+Sell all positions ASAP
+
+DIS 2022-12-09 07:18:29.267862:
+Similarity: [0.9753936]
+Accuracy: 0.521680216802168
+Most recent Close price for DIS: 92.55000305175781
+Tomorrow's Predicted Close Price for DIS: [[92.82328]]
+The following day after Tomorrow is Predicted Close Price for DIS: [[91.998]]
+Sell all positions Tomorrow
+
+INTC 2022-12-09 07:22:10.436488:
+Similarity: [0.9729089]
+Accuracy: 0.5013550135501355
+Most recent Close price for INTC: 28.440000534057617
+Tomorrow's Predicted Close Price for INTC: [[29.267881]]
+The following day after Tomorrow is Predicted Close Price for INTC: [[29.162033]]
+Sell all positions Tomorrow
+
+VZ 2022-12-09 07:25:51.258331:
+Similarity: [0.98532486]
+Accuracy: 0.5176151761517616
+Most recent Close price for VZ: 37.099998474121094
+Tomorrow's Predicted Close Price for VZ: [[36.991863]]
+The following day after Tomorrow is Predicted Close Price for VZ: [[36.776497]]
+Sell all positions ASAP
+
+HD 2022-12-09 07:29:29.188237:
+Similarity: [0.9748625]
+Accuracy: 0.5013550135501355
+Most recent Close price for HD: 324.0899963378906
+Tomorrow's Predicted Close Price for HD: [[319.0166]]
+The following day after Tomorrow is Predicted Close Price for HD: [[318.57788]]
+Sell all positions ASAP
+
+MRK 2022-12-09 07:33:07.807061:
+Similarity: [0.983733]
+Accuracy: 0.4986449864498645
+Most recent Close price for MRK: 110.8499984741211
+Tomorrow's Predicted Close Price for MRK: [[109.38791]]
+The following day after Tomorrow is Predicted Close Price for MRK: [[109.595505]]
+Buy what you can tomorrow and sell it the following day
+
+CVX 2022-12-09 07:36:49.289533:
+Similarity: [0.97187424]
+Accuracy: 0.5149051490514905
+Most recent Close price for CVX: 173.5399932861328
+Tomorrow's Predicted Close Price for CVX: [[173.47148]]
+The following day after Tomorrow is Predicted Close Price for CVX: [[172.39581]]
+Sell all positions ASAP
+
+PFE 2022-12-09 07:40:28.063702:
+Similarity: [0.98254913]
+Accuracy: 0.508130081300813
+Most recent Close price for PFE: 51.779998779296875
+Tomorrow's Predicted Close Price for PFE: [[50.26713]]
+The following day after Tomorrow is Predicted Close Price for PFE: [[50.546005]]
+Buy what you can tomorrow and sell it the following day
+
+KO 2022-12-09 07:44:07.295837:
+Similarity: [0.98370725]
+Accuracy: 0.47289972899729
+Most recent Close price for KO: 63.810001373291016
+Tomorrow's Predicted Close Price for KO: [[62.60648]]
+The following day after Tomorrow is Predicted Close Price for KO: [[62.33301]]
+Sell all positions ASAP
+
+WFC 2022-12-09 07:47:47.568210:
+Similarity: [0.9699051]
+Accuracy: 0.5203252032520326
+Most recent Close price for WFC: 42.58000183105469
+Tomorrow's Predicted Close Price for WFC: [[42.882847]]
+The following day after Tomorrow is Predicted Close Price for WFC: [[42.298126]]
+Sell all positions Tomorrow
+
+CMCSA 2022-12-09 07:51:28.090688:
+Similarity: [0.9798736]
+Accuracy: 0.508130081300813
+Most recent Close price for CMCSA: 34.970001220703125
+Tomorrow's Predicted Close Price for CMCSA: [[34.64375]]
+The following day after Tomorrow is Predicted Close Price for CMCSA: [[34.461487]]
+Sell all positions ASAP
+
+CSCO 2022-12-09 07:55:08.834263:
+Similarity: [0.9785745]
+Accuracy: 0.524390243902439
+Most recent Close price for CSCO: 48.9900016784668
+Tomorrow's Predicted Close Price for CSCO: [[48.381474]]
+The following day after Tomorrow is Predicted Close Price for CSCO: [[48.109097]]
+Sell all positions ASAP
+
+PEP 2022-12-09 07:58:48.503296:
+Similarity: [0.9840159]
+Accuracy: 0.5203252032520326
+Most recent Close price for PEP: 183.77999877929688
+Tomorrow's Predicted Close Price for PEP: [[181.91621]]
+The following day after Tomorrow is Predicted Close Price for PEP: [[181.47784]]
+Sell all positions ASAP
+
+BA 2022-12-09 08:02:37.652200:
+Similarity: [0.95989954]
+Accuracy: 0.518970189701897
+Most recent Close price for BA: 179.0800018310547
+Tomorrow's Predicted Close Price for BA: [[177.92134]]
+The following day after Tomorrow is Predicted Close Price for BA: [[176.88913]]
+Sell all positions ASAP
+
+C 2022-12-09 08:06:28.285444:
+Similarity: [0.9748309]
+Accuracy: 0.5176151761517616
+Most recent Close price for C: 44.689998626708984
+Tomorrow's Predicted Close Price for C: [[45.015026]]
+The following day after Tomorrow is Predicted Close Price for C: [[44.822487]]
+Sell all positions Tomorrow
+
+WMT 2022-12-09 08:10:20.174341:
+Similarity: [0.97393626]
+Accuracy: 0.5094850948509485
+Most recent Close price for WMT: 148.77999877929688
+Tomorrow's Predicted Close Price for WMT: [[146.16908]]
+The following day after Tomorrow is Predicted Close Price for WMT: [[145.23065]]
+Sell all positions ASAP
+
+ADBE 2022-12-09 08:14:12.551572:
+Similarity: [0.9694236]
+Accuracy: 0.4715447154471545
+Most recent Close price for ADBE: 332.5799865722656
+Tomorrow's Predicted Close Price for ADBE: [[336.66043]]
+The following day after Tomorrow is Predicted Close Price for ADBE: [[336.1627]]
+Sell all positions Tomorrow
+
+ABT 2022-12-09 08:18:05.223421:
+Similarity: [0.9782931]
+Accuracy: 0.5311653116531165
+Most recent Close price for ABT: 106.91999816894531
+Tomorrow's Predicted Close Price for ABT: [[106.78994]]
+The following day after Tomorrow is Predicted Close Price for ABT: [[106.62845]]
+Sell all positions ASAP
+
+MDT 2022-12-09 08:21:57.532141:
+Similarity: [0.9782179]
+Accuracy: 0.516260162601626
+Most recent Close price for MDT: 77.79000091552734
+Tomorrow's Predicted Close Price for MDT: [[78.857086]]
+The following day after Tomorrow is Predicted Close Price for MDT: [[78.733154]]
+Sell all positions Tomorrow
+
+BMY 2022-12-09 08:25:49.065936:
+Similarity: [0.98338574]
+Accuracy: 0.5013550135501355
+Most recent Close price for BMY: 79.87999725341797
+Tomorrow's Predicted Close Price for BMY: [[78.34575]]
+The following day after Tomorrow is Predicted Close Price for BMY: [[77.63543]]
+Sell all positions ASAP
+
+MCD 2022-12-09 08:29:40.707528:
+Similarity: [0.9738829]
+Accuracy: 0.48509485094850946
+Most recent Close price for MCD: 273.3900146484375
+Tomorrow's Predicted Close Price for MCD: [[265.35425]]
+The following day after Tomorrow is Predicted Close Price for MCD: [[264.68155]]
+Sell all positions ASAP
+
+CRM 2022-12-09 08:33:32.400627:
+Similarity: [0.96390057]
+Accuracy: 0.4823848238482385
+Most recent Close price for CRM: 130.1300048828125
+Tomorrow's Predicted Close Price for CRM: [[136.02493]]
+The following day after Tomorrow is Predicted Close Price for CRM: [[133.97768]]
+Sell all positions Tomorrow
+
+NVDA 2022-12-09 08:37:24.852520:
+Similarity: [0.95279145]
+Accuracy: 0.5176151761517616
+Most recent Close price for NVDA: 171.69000244140625
+Tomorrow's Predicted Close Price for NVDA: [[162.82443]]
+The following day after Tomorrow is Predicted Close Price for NVDA: [[162.15358]]
+Sell all positions ASAP
+
+NFLX 2022-12-09 08:41:17.615976:
+Similarity: [0.9631217]
+Accuracy: 0.5271002710027101
+Most recent Close price for NFLX: 310.260009765625
+Tomorrow's Predicted Close Price for NFLX: [[312.3606]]
+The following day after Tomorrow is Predicted Close Price for NFLX: [[312.9132]]
+Hold and buy what you can of NFLX, prepare to sell if conditions change
+
+AMGN 2022-12-09 08:45:11.385752:
+Similarity: [0.9844657]
+Accuracy: 0.508130081300813
+Most recent Close price for AMGN: 285.57000732421875
+Tomorrow's Predicted Close Price for AMGN: [[280.20865]]
+The following day after Tomorrow is Predicted Close Price for AMGN: [[279.07968]]
+Sell all positions ASAP
+
+ACN 2022-12-09 08:49:03.598057:
+Similarity: [0.9735041]
+Accuracy: 0.4878048780487805
+Most recent Close price for ACN: 292.1499938964844
+Tomorrow's Predicted Close Price for ACN: [[290.0559]]
+The following day after Tomorrow is Predicted Close Price for ACN: [[288.60065]]
+Sell all positions ASAP
+
+PM 2022-12-09 08:52:56.703640:
+Similarity: [0.98301333]
+Accuracy: 0.5040650406504065
+Most recent Close price for PM: 102.05999755859375
+Tomorrow's Predicted Close Price for PM: [[102.1043]]
+The following day after Tomorrow is Predicted Close Price for PM: [[101.56817]]
+Sell all positions Tomorrow
+
+ABBV 2022-12-09 08:56:48.748779:
+Similarity: [0.9775877]
+Accuracy: 0.4796747967479675
+Most recent Close price for ABBV: 165.99000549316406
+Tomorrow's Predicted Close Price for ABBV: [[163.26003]]
+The following day after Tomorrow is Predicted Close Price for ABBV: [[163.53459]]
+Buy what you can tomorrow and sell it the following day
+
+TMO 2022-12-09 09:00:42.820189:
+Similarity: [0.96317196]
+Accuracy: 0.4905149051490515
+Most recent Close price for TMO: 567.9500122070312
+Tomorrow's Predicted Close Price for TMO: [[539.9993]]
+The following day after Tomorrow is Predicted Close Price for TMO: [[540.1221]]
+Buy what you can tomorrow and sell it the following day
+
+COST 2022-12-09 09:04:36.591943:
+Similarity: [0.97515523]
+Accuracy: 0.516260162601626
+Most recent Close price for COST: 481.4200134277344
+Tomorrow's Predicted Close Price for COST: [[500.5641]]
+The following day after Tomorrow is Predicted Close Price for COST: [[495.98505]]
+Sell all positions Tomorrow
+
+PYPL 2022-12-09 09:08:15.211777:
+Similarity: [0.95554906]
+Accuracy: 0.489159891598916
+Most recent Close price for PYPL: 74.22000122070312
+Tomorrow's Predicted Close Price for PYPL: [[77.787865]]
+The following day after Tomorrow is Predicted Close Price for PYPL: [[77.46187]]
+Sell all positions Tomorrow
+
+NKE 2022-12-09 09:57:23.030899:
+Similarity: [0.97396666]
+Accuracy: 0.503382949932341
+Most recent Close price for NKE: 110.66000366210938
+Tomorrow's Predicted Close Price for NKE: [[110.80351]]
+The following day after Tomorrow is Predicted Close Price for NKE: [[110.947365]]
+Hold and buy what you can of NKE, prepare to sell if conditions change
+
+HON 2022-12-09 10:10:03.378170:
+Similarity: [0.9778026]
+Accuracy: 0.4979702300405954
+Most recent Close price for HON: 213.8000030517578
+Tomorrow's Predicted Close Price for HON: [[211.89384]]
+The following day after Tomorrow is Predicted Close Price for HON: [[211.28485]]
+Sell all positions ASAP
+
+UNP 2022-12-09 10:28:25.055084:
+Similarity: [0.97814506]
+Accuracy: 0.5006765899864682
+Most recent Close price for UNP: 212.17010498046875
+Tomorrow's Predicted Close Price for UNP: [[211.24397]]
+The following day after Tomorrow is Predicted Close Price for UNP: [[210.91699]]
+Sell all positions ASAP
+

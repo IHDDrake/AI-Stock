@@ -1,0 +1,2807 @@
+PRGO 2022-12-02 22:44:11.521957:
+Most recent Close price for PRGO: 31.940000534057617
+Tomorrow's Predicted Close Price for PRGO: [[30.416082]]
+The following day after Tomorrow is Predicted Close Price for PRGO: [[30.10312]]
+Sell all positions ASAP
+
+IVZ 2022-12-02 22:48:13.516662:
+Most recent Close price for IVZ: 19.09000015258789
+Tomorrow's Predicted Close Price for IVZ: [[19.190176]]
+The following day after Tomorrow is Predicted Close Price for IVZ: [[19.273409]]
+Hold and buy what you can of IVZ, prepare to sell if conditions change
+
+DVA 2022-12-02 22:52:07.568242:
+Most recent Close price for DVA: 74.33999633789062
+Tomorrow's Predicted Close Price for DVA: [[73.042694]]
+The following day after Tomorrow is Predicted Close Price for DVA: [[73.24206]]
+Buy what you can tomorrow and sell it the following day
+
+LEG 2022-12-02 22:56:00.140287:
+Most recent Close price for LEG: 35.310001373291016
+Tomorrow's Predicted Close Price for LEG: [[35.959694]]
+The following day after Tomorrow is Predicted Close Price for LEG: [[36.043015]]
+Hold and buy what you can of LEG, prepare to sell if conditions change
+
+AOS 2022-12-02 22:59:54.084987:
+Most recent Close price for AOS: 60.380001068115234
+Tomorrow's Predicted Close Price for AOS: [[60.29282]]
+The following day after Tomorrow is Predicted Close Price for AOS: [[60.34445]]
+Buy what you can tomorrow and sell it the following day
+
+FLS 2022-12-02 23:03:41.309508:
+Most recent Close price for FLS: 32.0099983215332
+Tomorrow's Predicted Close Price for FLS: [[31.472965]]
+The following day after Tomorrow is Predicted Close Price for FLS: [[31.638536]]
+Buy what you can tomorrow and sell it the following day
+
+SEE 2022-12-02 23:07:33.102410:
+Most recent Close price for SEE: 53.5099983215332
+Tomorrow's Predicted Close Price for SEE: [[51.970394]]
+The following day after Tomorrow is Predicted Close Price for SEE: [[52.06541]]
+Buy what you can tomorrow and sell it the following day
+
+RL 2022-12-02 23:11:21.954758:
+Most recent Close price for RL: 115.55999755859375
+Tomorrow's Predicted Close Price for RL: [[114.61762]]
+The following day after Tomorrow is Predicted Close Price for RL: [[114.42859]]
+Sell all positions ASAP
+
+UNM 2022-12-02 23:15:12.833113:
+Most recent Close price for UNM: 42.869998931884766
+Tomorrow's Predicted Close Price for UNM: [[42.230408]]
+The following day after Tomorrow is Predicted Close Price for UNM: [[42.44113]]
+Buy what you can tomorrow and sell it the following day
+
+HOG 2022-12-02 23:19:03.214688:
+Most recent Close price for HOG: 47.650001525878906
+Tomorrow's Predicted Close Price for HOG: [[47.55083]]
+The following day after Tomorrow is Predicted Close Price for HOG: [[47.788635]]
+Buy what you can tomorrow and sell it the following day
+
+PWR 2022-12-02 23:22:52.972990:
+Most recent Close price for PWR: 153.07000732421875
+Tomorrow's Predicted Close Price for PWR: [[143.81328]]
+The following day after Tomorrow is Predicted Close Price for PWR: [[144.11734]]
+Buy what you can tomorrow and sell it the following day
+
+FOX 2022-12-02 23:24:42.983218:
+Most recent Close price for FOX: 30.610000610351562
+Tomorrow's Predicted Close Price for FOX: [[30.324108]]
+The following day after Tomorrow is Predicted Close Price for FOX: [[30.53437]]
+Buy what you can tomorrow and sell it the following day
+
+CPRI 2022-12-02 23:28:35.917699:
+Most recent Close price for CPRI: 59.08000183105469
+Tomorrow's Predicted Close Price for CPRI: [[58.97186]]
+The following day after Tomorrow is Predicted Close Price for CPRI: [[59.389988]]
+Buy what you can tomorrow and sell it the following day
+
+HBI 2022-12-02 23:32:29.673592:
+Most recent Close price for HBI: 6.71999979019165
+Tomorrow's Predicted Close Price for HBI: [[6.7720127]]
+The following day after Tomorrow is Predicted Close Price for HBI: [[6.82183]]
+Hold and buy what you can of HBI, prepare to sell if conditions change
+
+NWSA 2022-12-02 23:36:22.802944:
+Most recent Close price for NWSA: 19.1200008392334
+Tomorrow's Predicted Close Price for NWSA: [[19.345554]]
+The following day after Tomorrow is Predicted Close Price for NWSA: [[19.508083]]
+Hold and buy what you can of NWSA, prepare to sell if conditions change
+
+IPGP 2022-12-02 23:40:11.268667:
+Most recent Close price for IPGP: 92.11000061035156
+Tomorrow's Predicted Close Price for IPGP: [[89.37225]]
+The following day after Tomorrow is Predicted Close Price for IPGP: [[89.55736]]
+Buy what you can tomorrow and sell it the following day
+
+M 2022-12-02 23:43:58.423271:
+Most recent Close price for M: 23.459999084472656
+Tomorrow's Predicted Close Price for M: [[23.215109]]
+The following day after Tomorrow is Predicted Close Price for M: [[23.157]]
+Sell all positions ASAP
+
+HP 2022-12-02 23:47:42.939360:
+Most recent Close price for HP: 50.720001220703125
+Tomorrow's Predicted Close Price for HP: [[51.29201]]
+The following day after Tomorrow is Predicted Close Price for HP: [[51.75414]]
+Hold and buy what you can of HP, prepare to sell if conditions change
+
+HRB 2022-12-02 23:51:27.454097:
+Most recent Close price for HRB: 42.380001068115234
+Tomorrow's Predicted Close Price for HRB: [[43.21539]]
+The following day after Tomorrow is Predicted Close Price for HRB: [[43.096188]]
+Sell all positions Tomorrow
+
+ROL 2022-12-02 23:55:15.110889:
+Most recent Close price for ROL: 40.47999954223633
+Tomorrow's Predicted Close Price for ROL: [[39.498135]]
+The following day after Tomorrow is Predicted Close Price for ROL: [[39.58687]]
+Buy what you can tomorrow and sell it the following day
+
+JWN 2022-12-02 23:59:03.143896:
+Most recent Close price for JWN: 20.200000762939453
+Tomorrow's Predicted Close Price for JWN: [[20.024721]]
+The following day after Tomorrow is Predicted Close Price for JWN: [[19.775158]]
+Sell all positions ASAP
+
+UAA 2022-12-03 00:02:54.140038:
+Most recent Close price for UAA: 10.140000343322754
+Tomorrow's Predicted Close Price for UAA: [[10.228137]]
+The following day after Tomorrow is Predicted Close Price for UAA: [[10.34592]]
+Hold and buy what you can of UAA, prepare to sell if conditions change
+
+GPS 2022-12-03 00:06:43.349595:
+Most recent Close price for GPS: 14.850000381469727
+Tomorrow's Predicted Close Price for GPS: [[14.782912]]
+The following day after Tomorrow is Predicted Close Price for GPS: [[14.819866]]
+Buy what you can tomorrow and sell it the following day
+
+IT 2022-12-03 00:10:31.156571:
+Most recent Close price for IT: 351.989990234375
+Tomorrow's Predicted Close Price for IT: [[332.7094]]
+The following day after Tomorrow is Predicted Close Price for IT: [[331.2627]]
+Sell all positions ASAP
+
+IFF 2022-12-03 00:14:20.629945:
+Most recent Close price for IFF: 107.97000122070312
+Tomorrow's Predicted Close Price for IFF: [[107.79809]]
+The following day after Tomorrow is Predicted Close Price for IFF: [[108.810585]]
+Buy what you can tomorrow and sell it the following day
+
+UDR 2022-12-03 00:18:07.835961:
+Most recent Close price for UDR: 41.0
+Tomorrow's Predicted Close Price for UDR: [[40.881916]]
+The following day after Tomorrow is Predicted Close Price for UDR: [[40.80473]]
+Sell all positions ASAP
+
+L 2022-12-03 00:21:55.753120:
+Most recent Close price for L: 57.66999816894531
+Tomorrow's Predicted Close Price for L: [[58.015644]]
+The following day after Tomorrow is Predicted Close Price for L: [[58.043297]]
+Hold and buy what you can of L, prepare to sell if conditions change
+
+HAS 2022-12-03 00:25:39.912522:
+Most recent Close price for HAS: 63.310001373291016
+Tomorrow's Predicted Close Price for HAS: [[63.697113]]
+The following day after Tomorrow is Predicted Close Price for HAS: [[64.00134]]
+Hold and buy what you can of HAS, prepare to sell if conditions change
+
+WYNN 2022-12-03 00:29:25.889439:
+Most recent Close price for WYNN: 85.1500015258789
+Tomorrow's Predicted Close Price for WYNN: [[86.46537]]
+The following day after Tomorrow is Predicted Close Price for WYNN: [[87.329056]]
+Hold and buy what you can of WYNN, prepare to sell if conditions change
+
+CNP 2022-12-03 00:33:10.927309:
+Most recent Close price for CNP: 30.670000076293945
+Tomorrow's Predicted Close Price for CNP: [[31.320648]]
+The following day after Tomorrow is Predicted Close Price for CNP: [[31.431147]]
+Hold and buy what you can of CNP, prepare to sell if conditions change
+
+LDOS 2022-12-03 00:36:58.200383:
+Most recent Close price for LDOS: 110.48999786376953
+Tomorrow's Predicted Close Price for LDOS: [[107.829895]]
+The following day after Tomorrow is Predicted Close Price for LDOS: [[107.51912]]
+Sell all positions ASAP
+
+EXPD 2022-12-03 00:40:45.814632:
+Most recent Close price for EXPD: 115.5199966430664
+Tomorrow's Predicted Close Price for EXPD: [[112.99465]]
+The following day after Tomorrow is Predicted Close Price for EXPD: [[113.227005]]
+Buy what you can tomorrow and sell it the following day
+
+FMC 2022-12-03 00:44:34.070854:
+Most recent Close price for FMC: 134.36000061035156
+Tomorrow's Predicted Close Price for FMC: [[130.79224]]
+The following day after Tomorrow is Predicted Close Price for FMC: [[131.74341]]
+Buy what you can tomorrow and sell it the following day
+
+NVR 2022-12-03 00:48:19.458756:
+Most recent Close price for NVR: 4687.60009765625
+Tomorrow's Predicted Close Price for NVR: [[4682.7007]]
+The following day after Tomorrow is Predicted Close Price for NVR: [[4718.055]]
+Buy what you can tomorrow and sell it the following day
+
+EXR 2022-12-03 00:52:04.920909:
+Most recent Close price for EXR: 159.0
+Tomorrow's Predicted Close Price for EXR: [[162.4785]]
+The following day after Tomorrow is Predicted Close Price for EXR: [[163.96895]]
+Hold and buy what you can of EXR, prepare to sell if conditions change
+
+CBOE 2022-12-03 00:55:50.874676:
+Most recent Close price for CBOE: 128.3300018310547
+Tomorrow's Predicted Close Price for CBOE: [[129.72119]]
+The following day after Tomorrow is Predicted Close Price for CBOE: [[131.10645]]
+Hold and buy what you can of CBOE, prepare to sell if conditions change
+
+AES 2022-12-03 00:59:36.467136:
+Most recent Close price for AES: 28.670000076293945
+Tomorrow's Predicted Close Price for AES: [[28.32008]]
+The following day after Tomorrow is Predicted Close Price for AES: [[28.179733]]
+Sell all positions ASAP
+
+ATO 2022-12-03 01:03:22.786998:
+Most recent Close price for ATO: 116.54000091552734
+Tomorrow's Predicted Close Price for ATO: [[118.2146]]
+The following day after Tomorrow is Predicted Close Price for ATO: [[117.69425]]
+Sell all positions Tomorrow
+
+DRI 2022-12-03 01:07:09.494276:
+Most recent Close price for DRI: 145.47999572753906
+Tomorrow's Predicted Close Price for DRI: [[145.66805]]
+The following day after Tomorrow is Predicted Close Price for DRI: [[145.40622]]
+Sell all positions Tomorrow
+
+FOXA 2022-12-03 01:08:56.276419:
+Most recent Close price for FOXA: 32.54999923706055
+Tomorrow's Predicted Close Price for FOXA: [[32.185577]]
+The following day after Tomorrow is Predicted Close Price for FOXA: [[32.3837]]
+Buy what you can tomorrow and sell it the following day
+
+URI 2022-12-03 01:12:43.339809:
+Most recent Close price for URI: 356.57000732421875
+Tomorrow's Predicted Close Price for URI: [[347.73178]]
+The following day after Tomorrow is Predicted Close Price for URI: [[348.10263]]
+Buy what you can tomorrow and sell it the following day
+
+SIVB 2022-12-03 01:16:33.501067:
+Most recent Close price for SIVB: 224.9199981689453
+Tomorrow's Predicted Close Price for SIVB: [[219.90715]]
+The following day after Tomorrow is Predicted Close Price for SIVB: [[220.966]]
+Buy what you can tomorrow and sell it the following day
+
+IEX 2022-12-03 01:20:19.550937:
+Most recent Close price for IEX: 241.83999633789062
+Tomorrow's Predicted Close Price for IEX: [[239.46645]]
+The following day after Tomorrow is Predicted Close Price for IEX: [[241.12543]]
+Buy what you can tomorrow and sell it the following day
+
+ABC 2022-12-03 01:24:06.162193:
+Most recent Close price for ABC: 173.99000549316406
+Tomorrow's Predicted Close Price for ABC: [[169.44495]]
+The following day after Tomorrow is Predicted Close Price for ABC: [[168.92126]]
+Sell all positions ASAP
+
+STE 2022-12-03 01:27:51.700633:
+Most recent Close price for STE: 191.91000366210938
+Tomorrow's Predicted Close Price for STE: [[183.03738]]
+The following day after Tomorrow is Predicted Close Price for STE: [[184.16345]]
+Buy what you can tomorrow and sell it the following day
+
+LNT 2022-12-03 01:31:36.522938:
+Most recent Close price for LNT: 54.79999923706055
+Tomorrow's Predicted Close Price for LNT: [[55.46087]]
+The following day after Tomorrow is Predicted Close Price for LNT: [[55.27776]]
+Sell all positions Tomorrow
+
+NCLH 2022-12-03 01:35:21.596840:
+Most recent Close price for NCLH: 16.540000915527344
+Tomorrow's Predicted Close Price for NCLH: [[16.667522]]
+The following day after Tomorrow is Predicted Close Price for NCLH: [[16.812485]]
+Hold and buy what you can of NCLH, prepare to sell if conditions change
+
+XRAY 2022-12-03 01:39:07.626087:
+Most recent Close price for XRAY: 31.68000030517578
+Tomorrow's Predicted Close Price for XRAY: [[31.332348]]
+The following day after Tomorrow is Predicted Close Price for XRAY: [[31.61858]]
+Buy what you can tomorrow and sell it the following day
+
+DRE 2022-12-03 01:42:49.221967:
+Most recent Close price for DRE: 48.20000076293945
+Tomorrow's Predicted Close Price for DRE: [[49.079006]]
+The following day after Tomorrow is Predicted Close Price for DRE: [[49.190147]]
+Hold and buy what you can of DRE, prepare to sell if conditions change
+
+LW 2022-12-03 01:45:41.872090:
+Most recent Close price for LW: 87.7300033569336
+Tomorrow's Predicted Close Price for LW: [[85.31186]]
+The following day after Tomorrow is Predicted Close Price for LW: [[85.22327]]
+Sell all positions ASAP
+
+NDAQ 2022-12-03 01:49:30.036261:
+Most recent Close price for NDAQ: 68.9800033569336
+Tomorrow's Predicted Close Price for NDAQ: [[67.02509]]
+The following day after Tomorrow is Predicted Close Price for NDAQ: [[67.30272]]
+Buy what you can tomorrow and sell it the following day
+
+HRL 2022-12-03 01:53:15.513693:
+Most recent Close price for HRL: 47.63999938964844
+Tomorrow's Predicted Close Price for HRL: [[47.34342]]
+The following day after Tomorrow is Predicted Close Price for HRL: [[47.20333]]
+Sell all positions ASAP
+
+J 2022-12-03 01:57:00.923448:
+Most recent Close price for J: 125.08999633789062
+Tomorrow's Predicted Close Price for J: [[123.25572]]
+The following day after Tomorrow is Predicted Close Price for J: [[123.55308]]
+Buy what you can tomorrow and sell it the following day
+
+ARNC 2022-12-03 01:58:15.681735:
+Most recent Close price for ARNC: 23.729999542236328
+Tomorrow's Predicted Close Price for ARNC: [[22.324692]]
+The following day after Tomorrow is Predicted Close Price for ARNC: [[22.59389]]
+Buy what you can tomorrow and sell it the following day
+
+ODFL 2022-12-03 02:02:01.176169:
+Most recent Close price for ODFL: 302.8500061035156
+Tomorrow's Predicted Close Price for ODFL: [[299.823]]
+The following day after Tomorrow is Predicted Close Price for ODFL: [[302.66058]]
+Buy what you can tomorrow and sell it the following day
+
+LNC 2022-12-03 02:05:47.258985:
+Most recent Close price for LNC: 38.81999969482422
+Tomorrow's Predicted Close Price for LNC: [[38.00244]]
+The following day after Tomorrow is Predicted Close Price for LNC: [[37.89922]]
+Sell all positions ASAP
+
+SJM 2022-12-03 02:09:32.768356:
+Most recent Close price for SJM: 154.4499969482422
+Tomorrow's Predicted Close Price for SJM: [[154.079]]
+The following day after Tomorrow is Predicted Close Price for SJM: [[153.86261]]
+Sell all positions ASAP
+
+ALLE 2022-12-03 02:13:18.212731:
+Most recent Close price for ALLE: 114.5199966430664
+Tomorrow's Predicted Close Price for ALLE: [[114.15731]]
+The following day after Tomorrow is Predicted Close Price for ALLE: [[114.76245]]
+Buy what you can tomorrow and sell it the following day
+
+UHS 2022-12-03 02:17:06.660076:
+Most recent Close price for UHS: 129.35000610351562
+Tomorrow's Predicted Close Price for UHS: [[128.74101]]
+The following day after Tomorrow is Predicted Close Price for UHS: [[128.05415]]
+Sell all positions ASAP
+
+WU 2022-12-03 02:20:54.264092:
+Most recent Close price for WU: 14.4399995803833
+Tomorrow's Predicted Close Price for WU: [[14.93059]]
+The following day after Tomorrow is Predicted Close Price for WU: [[15.009162]]
+Hold and buy what you can of WU, prepare to sell if conditions change
+
+AAP 2022-12-03 02:24:40.651244:
+Most recent Close price for AAP: 153.02999877929688
+Tomorrow's Predicted Close Price for AAP: [[151.7434]]
+The following day after Tomorrow is Predicted Close Price for AAP: [[152.86633]]
+Buy what you can tomorrow and sell it the following day
+
+AAL 2022-12-03 02:28:26.221489:
+Most recent Close price for AAL: 13.970000267028809
+Tomorrow's Predicted Close Price for AAL: [[14.670592]]
+The following day after Tomorrow is Predicted Close Price for AAL: [[14.715215]]
+Hold and buy what you can of AAL, prepare to sell if conditions change
+
+JKHY 2022-12-03 02:32:12.149086:
+Most recent Close price for JKHY: 191.60000610351562
+Tomorrow's Predicted Close Price for JKHY: [[189.40582]]
+The following day after Tomorrow is Predicted Close Price for JKHY: [[189.51932]]
+Buy what you can tomorrow and sell it the following day
+
+RJF 2022-12-03 02:35:58.058829:
+Most recent Close price for RJF: 119.16000366210938
+Tomorrow's Predicted Close Price for RJF: [[114.19666]]
+The following day after Tomorrow is Predicted Close Price for RJF: [[114.184135]]
+Sell all positions ASAP
+
+ANET 2022-12-03 02:39:43.600965:
+Most recent Close price for ANET: 135.0399932861328
+Tomorrow's Predicted Close Price for ANET: [[132.51393]]
+The following day after Tomorrow is Predicted Close Price for ANET: [[131.6346]]
+Sell all positions ASAP
+
+RE 2022-12-03 02:43:31.296816:
+Most recent Close price for RE: 333.4700012207031
+Tomorrow's Predicted Close Price for RE: [[328.6865]]
+The following day after Tomorrow is Predicted Close Price for RE: [[326.1392]]
+Sell all positions ASAP
+
+AVY 2022-12-03 02:47:17.478598:
+Most recent Close price for AVY: 192.60000610351562
+Tomorrow's Predicted Close Price for AVY: [[191.78595]]
+The following day after Tomorrow is Predicted Close Price for AVY: [[192.03442]]
+Buy what you can tomorrow and sell it the following day
+
+LKQ 2022-12-03 02:51:04.441649:
+Most recent Close price for LKQ: 55.060001373291016
+Tomorrow's Predicted Close Price for LKQ: [[53.35793]]
+The following day after Tomorrow is Predicted Close Price for LKQ: [[53.390564]]
+Buy what you can tomorrow and sell it the following day
+
+TSCO 2022-12-03 02:54:49.678943:
+Most recent Close price for TSCO: 224.94000244140625
+Tomorrow's Predicted Close Price for TSCO: [[222.88988]]
+The following day after Tomorrow is Predicted Close Price for TSCO: [[223.06526]]
+Buy what you can tomorrow and sell it the following day
+
+WRK 2022-12-03 02:58:20.433251:
+Most recent Close price for WRK: 37.849998474121094
+Tomorrow's Predicted Close Price for WRK: [[38.06813]]
+The following day after Tomorrow is Predicted Close Price for WRK: [[38.31598]]
+Hold and buy what you can of WRK, prepare to sell if conditions change
+
+MRO 2022-12-03 03:02:05.110387:
+Most recent Close price for MRO: 29.739999771118164
+Tomorrow's Predicted Close Price for MRO: [[29.765575]]
+The following day after Tomorrow is Predicted Close Price for MRO: [[29.527275]]
+Sell all positions Tomorrow
+
+PKI 2022-12-03 03:05:51.418118:
+Most recent Close price for PKI: 139.22999572753906
+Tomorrow's Predicted Close Price for PKI: [[139.41054]]
+The following day after Tomorrow is Predicted Close Price for PKI: [[140.26765]]
+Hold and buy what you can of PKI, prepare to sell if conditions change
+
+EMN 2022-12-03 03:09:36.333260:
+Most recent Close price for EMN: 87.5199966430664
+Tomorrow's Predicted Close Price for EMN: [[86.24561]]
+The following day after Tomorrow is Predicted Close Price for EMN: [[86.58091]]
+Buy what you can tomorrow and sell it the following day
+
+CHRW 2022-12-03 03:13:22.306242:
+Most recent Close price for CHRW: 96.70999908447266
+Tomorrow's Predicted Close Price for CHRW: [[96.32921]]
+The following day after Tomorrow is Predicted Close Price for CHRW: [[95.36678]]
+Sell all positions ASAP
+
+CMA 2022-12-03 03:17:11.521277:
+Most recent Close price for CMA: 70.12000274658203
+Tomorrow's Predicted Close Price for CMA: [[69.28414]]
+The following day after Tomorrow is Predicted Close Price for CMA: [[68.83606]]
+Sell all positions ASAP
+
+GL 2022-12-03 03:21:01.483421:
+Most recent Close price for GL: 121.13999938964844
+Tomorrow's Predicted Close Price for GL: [[120.922775]]
+The following day after Tomorrow is Predicted Close Price for GL: [[121.47169]]
+Buy what you can tomorrow and sell it the following day
+
+PKG 2022-12-03 03:24:48.709112:
+Most recent Close price for PKG: 137.82000732421875
+Tomorrow's Predicted Close Price for PKG: [[134.02235]]
+The following day after Tomorrow is Predicted Close Price for PKG: [[134.83545]]
+Buy what you can tomorrow and sell it the following day
+
+VNO 2022-12-03 03:28:34.925869:
+Most recent Close price for VNO: 24.34000015258789
+Tomorrow's Predicted Close Price for VNO: [[24.58691]]
+The following day after Tomorrow is Predicted Close Price for VNO: [[24.532375]]
+Sell all positions Tomorrow
+
+REG 2022-12-03 03:32:22.225368:
+Most recent Close price for REG: 65.80999755859375
+Tomorrow's Predicted Close Price for REG: [[64.44421]]
+The following day after Tomorrow is Predicted Close Price for REG: [[64.08938]]
+Sell all positions ASAP
+
+HII 2022-12-03 03:36:09.330909:
+Most recent Close price for HII: 240.67999267578125
+Tomorrow's Predicted Close Price for HII: [[237.87547]]
+The following day after Tomorrow is Predicted Close Price for HII: [[240.82892]]
+Buy what you can tomorrow and sell it the following day
+
+CF 2022-12-03 03:39:56.029529:
+Most recent Close price for CF: 104.38999938964844
+Tomorrow's Predicted Close Price for CF: [[100.22534]]
+The following day after Tomorrow is Predicted Close Price for CF: [[98.74942]]
+Sell all positions ASAP
+
+TXT 2022-12-03 03:43:43.167259:
+Most recent Close price for TXT: 71.30000305175781
+Tomorrow's Predicted Close Price for TXT: [[69.88367]]
+The following day after Tomorrow is Predicted Close Price for TXT: [[69.76785]]
+Sell all positions ASAP
+
+LYV 2022-12-03 03:47:29.630480:
+Most recent Close price for LYV: 73.91999816894531
+Tomorrow's Predicted Close Price for LYV: [[73.16351]]
+The following day after Tomorrow is Predicted Close Price for LYV: [[73.77538]]
+Buy what you can tomorrow and sell it the following day
+
+NI 2022-12-03 03:51:15.608577:
+Most recent Close price for NI: 27.56999969482422
+Tomorrow's Predicted Close Price for NI: [[27.156986]]
+The following day after Tomorrow is Predicted Close Price for NI: [[26.874907]]
+Sell all positions ASAP
+
+TAP 2022-12-03 03:55:01.476523:
+Most recent Close price for TAP: 55.56999969482422
+Tomorrow's Predicted Close Price for TAP: [[55.13967]]
+The following day after Tomorrow is Predicted Close Price for TAP: [[55.08388]]
+Sell all positions ASAP
+
+DVN 2022-12-03 03:58:47.652633:
+Most recent Close price for DVN: 68.45999908447266
+Tomorrow's Predicted Close Price for DVN: [[67.12988]]
+The following day after Tomorrow is Predicted Close Price for DVN: [[66.908035]]
+Sell all positions ASAP
+
+PNW 2022-12-03 04:02:37.840448:
+Most recent Close price for PNW: 78.12000274658203
+Tomorrow's Predicted Close Price for PNW: [[78.23965]]
+The following day after Tomorrow is Predicted Close Price for PNW: [[78.429085]]
+Hold and buy what you can of PNW, prepare to sell if conditions change
+
+JBHT 2022-12-03 04:06:32.438000:
+Most recent Close price for JBHT: 182.8800048828125
+Tomorrow's Predicted Close Price for JBHT: [[184.49025]]
+The following day after Tomorrow is Predicted Close Price for JBHT: [[185.19554]]
+Hold and buy what you can of JBHT, prepare to sell if conditions change
+
+PHM 2022-12-03 04:10:17.706295:
+Most recent Close price for PHM: 44.59000015258789
+Tomorrow's Predicted Close Price for PHM: [[43.54526]]
+The following day after Tomorrow is Predicted Close Price for PHM: [[43.21449]]
+Sell all positions ASAP
+
+WRB 2022-12-03 04:14:06.628750:
+Most recent Close price for WRB: 75.66999816894531
+Tomorrow's Predicted Close Price for WRB: [[75.747536]]
+The following day after Tomorrow is Predicted Close Price for WRB: [[75.804886]]
+Hold and buy what you can of WRB, prepare to sell if conditions change
+
+NRG 2022-12-03 04:17:51.335794:
+Most recent Close price for NRG: 41.25
+Tomorrow's Predicted Close Price for NRG: [[41.787075]]
+The following day after Tomorrow is Predicted Close Price for NRG: [[41.614063]]
+Sell all positions Tomorrow
+
+HSIC 2022-12-03 04:21:38.353980:
+Most recent Close price for HSIC: 83.29000091552734
+Tomorrow's Predicted Close Price for HSIC: [[83.20644]]
+The following day after Tomorrow is Predicted Close Price for HSIC: [[83.17039]]
+Sell all positions ASAP
+
+APA 2022-12-03 04:25:23.317869:
+Most recent Close price for APA: 47.11000061035156
+Tomorrow's Predicted Close Price for APA: [[47.968117]]
+The following day after Tomorrow is Predicted Close Price for APA: [[48.384556]]
+Hold and buy what you can of APA, prepare to sell if conditions change
+
+DXC 2022-12-03 04:29:10.327809:
+Most recent Close price for DXC: 28.860000610351562
+Tomorrow's Predicted Close Price for DXC: [[29.532324]]
+The following day after Tomorrow is Predicted Close Price for DXC: [[29.481173]]
+Sell all positions Tomorrow
+
+NOV 2022-12-03 04:32:56.858508:
+Most recent Close price for NOV: 22.549999237060547
+Tomorrow's Predicted Close Price for NOV: [[22.351469]]
+The following day after Tomorrow is Predicted Close Price for NOV: [[22.446156]]
+Buy what you can tomorrow and sell it the following day
+
+SNA 2022-12-03 04:36:44.250762:
+Most recent Close price for SNA: 244.9600067138672
+Tomorrow's Predicted Close Price for SNA: [[243.23187]]
+The following day after Tomorrow is Predicted Close Price for SNA: [[244.1607]]
+Buy what you can tomorrow and sell it the following day
+
+DISH 2022-12-03 04:40:35.490016:
+Most recent Close price for DISH: 15.5600004196167
+Tomorrow's Predicted Close Price for DISH: [[16.308834]]
+The following day after Tomorrow is Predicted Close Price for DISH: [[16.355906]]
+Hold and buy what you can of DISH, prepare to sell if conditions change
+
+FBHS 2022-12-03 04:44:22.955238:
+Most recent Close price for FBHS: 63.58000183105469
+Tomorrow's Predicted Close Price for FBHS: [[65.22114]]
+The following day after Tomorrow is Predicted Close Price for FBHS: [[64.95894]]
+Sell all positions Tomorrow
+
+WHR 2022-12-03 04:48:09.605372:
+Most recent Close price for WHR: 146.1199951171875
+Tomorrow's Predicted Close Price for WHR: [[144.9149]]
+The following day after Tomorrow is Predicted Close Price for WHR: [[144.5704]]
+Sell all positions ASAP
+
+ZION 2022-12-03 04:51:55.626163:
+Most recent Close price for ZION: 52.25
+Tomorrow's Predicted Close Price for ZION: [[51.732418]]
+The following day after Tomorrow is Predicted Close Price for ZION: [[51.870415]]
+Buy what you can tomorrow and sell it the following day
+
+IRM 2022-12-03 04:55:42.630561:
+Most recent Close price for IRM: 55.060001373291016
+Tomorrow's Predicted Close Price for IRM: [[54.742886]]
+The following day after Tomorrow is Predicted Close Price for IRM: [[54.82722]]
+Buy what you can tomorrow and sell it the following day
+
+BWA 2022-12-03 04:59:28.416538:
+Most recent Close price for BWA: 42.68000030517578
+Tomorrow's Predicted Close Price for BWA: [[42.03886]]
+The following day after Tomorrow is Predicted Close Price for BWA: [[41.97771]]
+Sell all positions ASAP
+
+FRT 2022-12-03 05:03:14.377996:
+Most recent Close price for FRT: 109.44000244140625
+Tomorrow's Predicted Close Price for FRT: [[109.170006]]
+The following day after Tomorrow is Predicted Close Price for FRT: [[109.027626]]
+Sell all positions ASAP
+
+IPG 2022-12-03 05:07:00.952322:
+Most recent Close price for IPG: 33.689998626708984
+Tomorrow's Predicted Close Price for IPG: [[34.49545]]
+The following day after Tomorrow is Predicted Close Price for IPG: [[34.538876]]
+Hold and buy what you can of IPG, prepare to sell if conditions change
+
+FTI 2022-12-03 05:10:49.639897:
+Most recent Close price for FTI: 12.890000343322754
+Tomorrow's Predicted Close Price for FTI: [[12.378364]]
+The following day after Tomorrow is Predicted Close Price for FTI: [[12.502096]]
+Buy what you can tomorrow and sell it the following day
+
+KIM 2022-12-03 05:14:36.427219:
+Most recent Close price for KIM: 22.610000610351562
+Tomorrow's Predicted Close Price for KIM: [[22.63746]]
+The following day after Tomorrow is Predicted Close Price for KIM: [[22.63847]]
+Hold and buy what you can of KIM, prepare to sell if conditions change
+
+ALK 2022-12-03 05:18:22.552786:
+Most recent Close price for ALK: 46.70000076293945
+Tomorrow's Predicted Close Price for ALK: [[46.905663]]
+The following day after Tomorrow is Predicted Close Price for ALK: [[46.92071]]
+Hold and buy what you can of ALK, prepare to sell if conditions change
+
+CPB 2022-12-03 05:22:12.219332:
+Most recent Close price for CPB: 54.099998474121094
+Tomorrow's Predicted Close Price for CPB: [[53.36524]]
+The following day after Tomorrow is Predicted Close Price for CPB: [[53.205242]]
+Sell all positions ASAP
+
+JNPR 2022-12-03 05:25:58.121331:
+Most recent Close price for JNPR: 32.86000061035156
+Tomorrow's Predicted Close Price for JNPR: [[32.882668]]
+The following day after Tomorrow is Predicted Close Price for JNPR: [[32.79585]]
+Sell all positions Tomorrow
+
+FFIV 2022-12-03 05:29:42.875646:
+Most recent Close price for FFIV: 153.94000244140625
+Tomorrow's Predicted Close Price for FFIV: [[153.38747]]
+The following day after Tomorrow is Predicted Close Price for FFIV: [[153.65205]]
+Buy what you can tomorrow and sell it the following day
+
+KSS 2022-12-03 05:33:29.870837:
+Most recent Close price for KSS: 31.520000457763672
+Tomorrow's Predicted Close Price for KSS: [[31.918753]]
+The following day after Tomorrow is Predicted Close Price for KSS: [[31.819653]]
+Sell all positions Tomorrow
+
+MHK 2022-12-03 05:37:15.832084:
+Most recent Close price for MHK: 102.08999633789062
+Tomorrow's Predicted Close Price for MHK: [[103.02722]]
+The following day after Tomorrow is Predicted Close Price for MHK: [[103.4751]]
+Hold and buy what you can of MHK, prepare to sell if conditions change
+
+AIZ 2022-12-03 05:41:03.499566:
+Most recent Close price for AIZ: 128.47999572753906
+Tomorrow's Predicted Close Price for AIZ: [[125.540955]]
+The following day after Tomorrow is Predicted Close Price for AIZ: [[125.36095]]
+Sell all positions ASAP
+
+TPR 2022-12-03 05:44:49.961800:
+Most recent Close price for TPR: 38.810001373291016
+Tomorrow's Predicted Close Price for TPR: [[38.89823]]
+The following day after Tomorrow is Predicted Close Price for TPR: [[39.298214]]
+Hold and buy what you can of TPR, prepare to sell if conditions change
+
+PVH 2022-12-03 05:48:35.677143:
+Most recent Close price for PVH: 72.93000030517578
+Tomorrow's Predicted Close Price for PVH: [[71.20162]]
+The following day after Tomorrow is Predicted Close Price for PVH: [[72.788475]]
+Buy what you can tomorrow and sell it the following day
+
+PNR 2022-12-03 05:52:22.207267:
+Most recent Close price for PNR: 46.650001525878906
+Tomorrow's Predicted Close Price for PNR: [[45.578606]]
+The following day after Tomorrow is Predicted Close Price for PNR: [[45.814014]]
+Buy what you can tomorrow and sell it the following day
+
+ALB 2022-12-03 05:56:09.467370:
+Most recent Close price for ALB: 284.2799987792969
+Tomorrow's Predicted Close Price for ALB: [[280.75107]]
+The following day after Tomorrow is Predicted Close Price for ALB: [[283.1814]]
+Buy what you can tomorrow and sell it the following day
+
+AIV 2022-12-03 05:59:57.326538:
+Most recent Close price for AIV: 8.25
+Tomorrow's Predicted Close Price for AIV: [[8.370754]]
+The following day after Tomorrow is Predicted Close Price for AIV: [[8.384314]]
+Hold and buy what you can of AIV, prepare to sell if conditions change
+
+SLG 2022-12-03 06:03:42.361347:
+Most recent Close price for SLG: 40.61000061035156
+Tomorrow's Predicted Close Price for SLG: [[42.014908]]
+The following day after Tomorrow is Predicted Close Price for SLG: [[41.99205]]
+Sell all positions Tomorrow
+
+ABMD 2022-12-03 06:07:28.385250:
+Most recent Close price for ABMD: 377.20001220703125
+Tomorrow's Predicted Close Price for ABMD: [[383.1178]]
+The following day after Tomorrow is Predicted Close Price for ABMD: [[385.03958]]
+Hold and buy what you can of ABMD, prepare to sell if conditions change
+
+NWL 2022-12-03 06:11:14.880829:
+Most recent Close price for NWL: 12.989999771118164
+Tomorrow's Predicted Close Price for NWL: [[13.3333]]
+The following day after Tomorrow is Predicted Close Price for NWL: [[13.355864]]
+Hold and buy what you can of NWL, prepare to sell if conditions change
+
+BEN 2022-12-03 06:15:01.434319:
+Most recent Close price for BEN: 27.25
+Tomorrow's Predicted Close Price for BEN: [[26.766094]]
+The following day after Tomorrow is Predicted Close Price for BEN: [[26.914562]]
+Buy what you can tomorrow and sell it the following day
+
+MOS 2022-12-03 06:18:47.750231:
+Most recent Close price for MOS: 49.310001373291016
+Tomorrow's Predicted Close Price for MOS: [[49.970356]]
+The following day after Tomorrow is Predicted Close Price for MOS: [[49.672363]]
+Sell all positions Tomorrow
+
+RHI 2022-12-03 06:22:36.188872:
+Most recent Close price for RHI: 77.4800033569336
+Tomorrow's Predicted Close Price for RHI: [[79.25296]]
+The following day after Tomorrow is Predicted Close Price for RHI: [[79.64126]]
+Hold and buy what you can of RHI, prepare to sell if conditions change
+
+XRX 2022-12-03 06:26:23.886107:
+Most recent Close price for XRX: 16.670000076293945
+Tomorrow's Predicted Close Price for XRX: [[16.096441]]
+The following day after Tomorrow is Predicted Close Price for XRX: [[16.210073]]
+Buy what you can tomorrow and sell it the following day
+
+MSFT 2022-12-03 06:30:11.353639:
+Most recent Close price for MSFT: 255.02000427246094
+Tomorrow's Predicted Close Price for MSFT: [[254.734]]
+The following day after Tomorrow is Predicted Close Price for MSFT: [[256.3355]]
+Buy what you can tomorrow and sell it the following day
+
+AAPL 2022-12-03 06:33:59.625209:
+Most recent Close price for AAPL: 147.80999755859375
+Tomorrow's Predicted Close Price for AAPL: [[150.93263]]
+The following day after Tomorrow is Predicted Close Price for AAPL: [[151.53932]]
+Hold and buy what you can of AAPL, prepare to sell if conditions change
+
+AMZN 2022-12-03 06:37:46.657864:
+Most recent Close price for AMZN: 94.12999725341797
+Tomorrow's Predicted Close Price for AMZN: [[97.14767]]
+The following day after Tomorrow is Predicted Close Price for AMZN: [[97.597694]]
+Hold and buy what you can of AMZN, prepare to sell if conditions change
+
+JPM 2022-12-03 06:41:31.949034:
+Most recent Close price for JPM: 135.16000366210938
+Tomorrow's Predicted Close Price for JPM: [[135.71584]]
+The following day after Tomorrow is Predicted Close Price for JPM: [[135.27094]]
+Sell all positions Tomorrow
+
+GOOGL 2022-12-03 06:45:18.347287:
+Most recent Close price for GOOGL: 100.44000244140625
+Tomorrow's Predicted Close Price for GOOGL: [[97.72565]]
+The following day after Tomorrow is Predicted Close Price for GOOGL: [[98.05641]]
+Buy what you can tomorrow and sell it the following day
+
+GOOG 2022-12-03 06:49:05.248853:
+Most recent Close price for GOOG: 100.83000183105469
+Tomorrow's Predicted Close Price for GOOG: [[94.31022]]
+The following day after Tomorrow is Predicted Close Price for GOOG: [[94.05342]]
+Sell all positions ASAP
+
+JNJ 2022-12-03 06:52:50.557260:
+Most recent Close price for JNJ: 178.8800048828125
+Tomorrow's Predicted Close Price for JNJ: [[174.90007]]
+The following day after Tomorrow is Predicted Close Price for JNJ: [[174.55623]]
+Sell all positions ASAP
+
+V 2022-12-03 06:56:35.806250:
+Most recent Close price for V: 217.66000366210938
+Tomorrow's Predicted Close Price for V: [[207.59023]]
+The following day after Tomorrow is Predicted Close Price for V: [[207.64915]]
+Buy what you can tomorrow and sell it the following day
+
+PG 2022-12-03 07:00:23.269127:
+Most recent Close price for PG: 150.61000061035156
+Tomorrow's Predicted Close Price for PG: [[146.52249]]
+The following day after Tomorrow is Predicted Close Price for PG: [[146.8392]]
+Buy what you can tomorrow and sell it the following day
+
+XOM 2022-12-03 07:04:10.786939:
+Most recent Close price for XOM: 109.86000061035156
+Tomorrow's Predicted Close Price for XOM: [[109.14925]]
+The following day after Tomorrow is Predicted Close Price for XOM: [[108.7604]]
+Sell all positions ASAP
+
+T 2022-12-03 07:08:13.511771:
+Most recent Close price for T: 19.020000457763672
+Tomorrow's Predicted Close Price for T: [[18.880545]]
+The following day after Tomorrow is Predicted Close Price for T: [[18.873154]]
+Sell all positions ASAP
+
+BAC 2022-12-03 07:11:58.897131:
+Most recent Close price for BAC: 36.08000183105469
+Tomorrow's Predicted Close Price for BAC: [[37.08994]]
+The following day after Tomorrow is Predicted Close Price for BAC: [[36.91928]]
+Sell all positions Tomorrow
+
+UNH 2022-12-03 07:15:45.907891:
+Most recent Close price for UNH: 536.1599731445312
+Tomorrow's Predicted Close Price for UNH: [[544.5546]]
+The following day after Tomorrow is Predicted Close Price for UNH: [[546.086]]
+Hold and buy what you can of UNH, prepare to sell if conditions change
+
+MA 2022-12-03 07:19:30.856599:
+Most recent Close price for MA: 360.05999755859375
+Tomorrow's Predicted Close Price for MA: [[349.6997]]
+The following day after Tomorrow is Predicted Close Price for MA: [[351.02246]]
+Buy what you can tomorrow and sell it the following day
+
+DIS 2022-12-03 07:23:17.561237:
+Most recent Close price for DIS: 99.43000030517578
+Tomorrow's Predicted Close Price for DIS: [[98.74382]]
+The following day after Tomorrow is Predicted Close Price for DIS: [[99.59169]]
+Buy what you can tomorrow and sell it the following day
+
+INTC 2022-12-03 07:27:04.133199:
+Most recent Close price for INTC: 29.40999984741211
+Tomorrow's Predicted Close Price for INTC: [[29.220737]]
+The following day after Tomorrow is Predicted Close Price for INTC: [[29.25407]]
+Buy what you can tomorrow and sell it the following day
+
+VZ 2022-12-03 07:30:49.881216:
+Most recent Close price for VZ: 38.18000030517578
+Tomorrow's Predicted Close Price for VZ: [[38.307995]]
+The following day after Tomorrow is Predicted Close Price for VZ: [[38.18653]]
+Sell all positions Tomorrow
+
+HD 2022-12-03 07:34:35.424701:
+Most recent Close price for HD: 327.989990234375
+Tomorrow's Predicted Close Price for HD: [[324.37503]]
+The following day after Tomorrow is Predicted Close Price for HD: [[325.6333]]
+Buy what you can tomorrow and sell it the following day
+
+MRK 2022-12-03 07:38:22.646446:
+Most recent Close price for MRK: 110.04000091552734
+Tomorrow's Predicted Close Price for MRK: [[108.44857]]
+The following day after Tomorrow is Predicted Close Price for MRK: [[107.79023]]
+Sell all positions ASAP
+
+CVX 2022-12-03 07:42:10.678590:
+Most recent Close price for CVX: 181.02999877929688
+Tomorrow's Predicted Close Price for CVX: [[185.37732]]
+The following day after Tomorrow is Predicted Close Price for CVX: [[186.44365]]
+Hold and buy what you can of CVX, prepare to sell if conditions change
+
+PFE 2022-12-03 07:45:57.875676:
+Most recent Close price for PFE: 50.90999984741211
+Tomorrow's Predicted Close Price for PFE: [[49.736988]]
+The following day after Tomorrow is Predicted Close Price for PFE: [[49.297283]]
+Sell all positions ASAP
+
+KO 2022-12-03 07:49:44.242845:
+Most recent Close price for KO: 64.3499984741211
+Tomorrow's Predicted Close Price for KO: [[63.06581]]
+The following day after Tomorrow is Predicted Close Price for KO: [[62.737125]]
+Sell all positions ASAP
+
+WFC 2022-12-03 07:53:31.393226:
+Most recent Close price for WFC: 45.939998626708984
+Tomorrow's Predicted Close Price for WFC: [[46.755585]]
+The following day after Tomorrow is Predicted Close Price for WFC: [[46.422928]]
+Sell all positions Tomorrow
+
+CMCSA 2022-12-03 07:57:17.302682:
+Most recent Close price for CMCSA: 35.86000061035156
+Tomorrow's Predicted Close Price for CMCSA: [[36.206394]]
+The following day after Tomorrow is Predicted Close Price for CMCSA: [[36.193375]]
+Sell all positions Tomorrow
+
+CSCO 2022-12-03 08:01:03.503202:
+Most recent Close price for CSCO: 49.70000076293945
+Tomorrow's Predicted Close Price for CSCO: [[49.36194]]
+The following day after Tomorrow is Predicted Close Price for CSCO: [[49.536526]]
+Buy what you can tomorrow and sell it the following day
+
+PEP 2022-12-03 08:04:48.678812:
+Most recent Close price for PEP: 185.69000244140625
+Tomorrow's Predicted Close Price for PEP: [[181.66847]]
+The following day after Tomorrow is Predicted Close Price for PEP: [[181.33113]]
+Sell all positions ASAP
+
+BA 2022-12-03 08:08:36.312045:
+Most recent Close price for BA: 182.8699951171875
+Tomorrow's Predicted Close Price for BA: [[179.98216]]
+The following day after Tomorrow is Predicted Close Price for BA: [[181.51962]]
+Buy what you can tomorrow and sell it the following day
+
+C 2022-12-03 08:12:23.958825:
+Most recent Close price for C: 47.2400016784668
+Tomorrow's Predicted Close Price for C: [[47.52235]]
+The following day after Tomorrow is Predicted Close Price for C: [[47.39376]]
+Sell all positions Tomorrow
+
+WMT 2022-12-03 08:16:13.207685:
+Most recent Close price for WMT: 153.22000122070312
+Tomorrow's Predicted Close Price for WMT: [[150.02089]]
+The following day after Tomorrow is Predicted Close Price for WMT: [[149.51085]]
+Sell all positions ASAP
+
+ADBE 2022-12-03 08:20:01.516741:
+Most recent Close price for ADBE: 341.5299987792969
+Tomorrow's Predicted Close Price for ADBE: [[329.8928]]
+The following day after Tomorrow is Predicted Close Price for ADBE: [[331.08502]]
+Buy what you can tomorrow and sell it the following day
+
+ABT 2022-12-03 08:23:49.044264:
+Most recent Close price for ABT: 108.08999633789062
+Tomorrow's Predicted Close Price for ABT: [[107.9422]]
+The following day after Tomorrow is Predicted Close Price for ABT: [[108.39676]]
+Buy what you can tomorrow and sell it the following day
+
+MDT 2022-12-03 08:27:35.943188:
+Most recent Close price for MDT: 79.62000274658203
+Tomorrow's Predicted Close Price for MDT: [[78.855934]]
+The following day after Tomorrow is Predicted Close Price for MDT: [[79.36295]]
+Buy what you can tomorrow and sell it the following day
+
+BMY 2022-12-03 08:31:22.920865:
+Most recent Close price for BMY: 81.12999725341797
+Tomorrow's Predicted Close Price for BMY: [[80.03947]]
+The following day after Tomorrow is Predicted Close Price for BMY: [[79.137886]]
+Sell all positions ASAP
+
+MCD 2022-12-03 08:35:09.172785:
+Most recent Close price for MCD: 273.3999938964844
+Tomorrow's Predicted Close Price for MCD: [[269.07877]]
+The following day after Tomorrow is Predicted Close Price for MCD: [[268.4659]]
+Sell all positions ASAP
+
+CRM 2022-12-03 08:38:57.202280:
+Most recent Close price for CRM: 144.55999755859375
+Tomorrow's Predicted Close Price for CRM: [[153.45589]]
+The following day after Tomorrow is Predicted Close Price for CRM: [[152.22461]]
+Sell all positions Tomorrow
+
+NVDA 2022-12-03 08:42:43.376709:
+Most recent Close price for NVDA: 168.75999450683594
+Tomorrow's Predicted Close Price for NVDA: [[168.65118]]
+The following day after Tomorrow is Predicted Close Price for NVDA: [[170.959]]
+Buy what you can tomorrow and sell it the following day
+
+NFLX 2022-12-03 08:46:33.031822:
+Most recent Close price for NFLX: 320.4100036621094
+Tomorrow's Predicted Close Price for NFLX: [[299.69754]]
+The following day after Tomorrow is Predicted Close Price for NFLX: [[304.50983]]
+Buy what you can tomorrow and sell it the following day
+
+AMGN 2022-12-03 08:50:22.585373:
+Most recent Close price for AMGN: 285.510009765625
+Tomorrow's Predicted Close Price for AMGN: [[284.4009]]
+The following day after Tomorrow is Predicted Close Price for AMGN: [[283.76547]]
+Sell all positions ASAP
+
+ACN 2022-12-03 08:54:11.156559:
+Most recent Close price for ACN: 300.1300048828125
+Tomorrow's Predicted Close Price for ACN: [[296.87173]]
+The following day after Tomorrow is Predicted Close Price for ACN: [[298.52493]]
+Buy what you can tomorrow and sell it the following day
+
+PM 2022-12-03 08:57:58.389247:
+Most recent Close price for PM: 104.30000305175781
+Tomorrow's Predicted Close Price for PM: [[101.88902]]
+The following day after Tomorrow is Predicted Close Price for PM: [[101.63908]]
+Sell all positions ASAP
+
+ABBV 2022-12-03 09:01:44.462009:
+Most recent Close price for ABBV: 163.66000366210938
+Tomorrow's Predicted Close Price for ABBV: [[161.721]]
+The following day after Tomorrow is Predicted Close Price for ABBV: [[162.43747]]
+Buy what you can tomorrow and sell it the following day
+
+TMO 2022-12-03 09:05:34.244828:
+Most recent Close price for TMO: 563.0
+Tomorrow's Predicted Close Price for TMO: [[552.0179]]
+The following day after Tomorrow is Predicted Close Price for TMO: [[554.20135]]
+Buy what you can tomorrow and sell it the following day
+
+COST 2022-12-03 09:09:21.972648:
+Most recent Close price for COST: 494.5299987792969
+Tomorrow's Predicted Close Price for COST: [[529.22095]]
+The following day after Tomorrow is Predicted Close Price for COST: [[524.9782]]
+Sell all positions Tomorrow
+
+PYPL 2022-12-03 09:12:53.263528:
+Most recent Close price for PYPL: 74.66000366210938
+Tomorrow's Predicted Close Price for PYPL: [[77.862816]]
+The following day after Tomorrow is Predicted Close Price for PYPL: [[77.26643]]
+Sell all positions Tomorrow
+
+NKE 2022-12-03 09:16:40.668121:
+Most recent Close price for NKE: 112.19999694824219
+Tomorrow's Predicted Close Price for NKE: [[109.77018]]
+The following day after Tomorrow is Predicted Close Price for NKE: [[110.892006]]
+Buy what you can tomorrow and sell it the following day
+
+HON 2022-12-03 09:20:29.226957:
+Most recent Close price for HON: 219.0800018310547
+Tomorrow's Predicted Close Price for HON: [[221.63348]]
+The following day after Tomorrow is Predicted Close Price for HON: [[222.4309]]
+Hold and buy what you can of HON, prepare to sell if conditions change
+
+UNP 2022-12-03 09:24:16.965264:
+Most recent Close price for UNP: 214.72999572753906
+Tomorrow's Predicted Close Price for UNP: [[216.64096]]
+The following day after Tomorrow is Predicted Close Price for UNP: [[217.56332]]
+Hold and buy what you can of UNP, prepare to sell if conditions change
+
+AVGO 2022-12-03 09:28:05.340155:
+Most recent Close price for AVGO: 540.7999877929688
+Tomorrow's Predicted Close Price for AVGO: [[523.79584]]
+The following day after Tomorrow is Predicted Close Price for AVGO: [[525.106]]
+Buy what you can tomorrow and sell it the following day
+
+TXN 2022-12-03 09:31:53.686567:
+Most recent Close price for TXN: 177.66000366210938
+Tomorrow's Predicted Close Price for TXN: [[177.97484]]
+The following day after Tomorrow is Predicted Close Price for TXN: [[178.58215]]
+Hold and buy what you can of TXN, prepare to sell if conditions change
+
+IBM 2022-12-03 09:35:41.823255:
+Most recent Close price for IBM: 148.6699981689453
+Tomorrow's Predicted Close Price for IBM: [[148.32175]]
+The following day after Tomorrow is Predicted Close Price for IBM: [[148.09436]]
+Sell all positions ASAP
+
+NEE 2022-12-03 09:39:29.310978:
+Most recent Close price for NEE: 85.19999694824219
+Tomorrow's Predicted Close Price for NEE: [[84.64981]]
+The following day after Tomorrow is Predicted Close Price for NEE: [[84.797104]]
+Buy what you can tomorrow and sell it the following day
+
+ORCL 2022-12-03 09:43:17.331781:
+Most recent Close price for ORCL: 83.3499984741211
+Tomorrow's Predicted Close Price for ORCL: [[82.746796]]
+The following day after Tomorrow is Predicted Close Price for ORCL: [[82.92511]]
+Buy what you can tomorrow and sell it the following day
+
+LIN 2022-12-03 09:47:04.726981:
+Most recent Close price for LIN: 337.3500061035156
+Tomorrow's Predicted Close Price for LIN: [[333.71378]]
+The following day after Tomorrow is Predicted Close Price for LIN: [[332.8253]]
+Sell all positions ASAP
+
+LLY 2022-12-03 09:50:52.405504:
+Most recent Close price for LLY: 374.760009765625
+Tomorrow's Predicted Close Price for LLY: [[358.9933]]
+The following day after Tomorrow is Predicted Close Price for LLY: [[358.61105]]
+Sell all positions ASAP
+
+SBUX 2022-12-03 09:54:39.356436:
+Most recent Close price for SBUX: 105.05000305175781
+Tomorrow's Predicted Close Price for SBUX: [[101.10359]]
+The following day after Tomorrow is Predicted Close Price for SBUX: [[101.79382]]
+Buy what you can tomorrow and sell it the following day
+
+MMM 2022-12-03 09:58:27.138500:
+Most recent Close price for MMM: 126.98999786376953
+Tomorrow's Predicted Close Price for MMM: [[126.784546]]
+The following day after Tomorrow is Predicted Close Price for MMM: [[126.963425]]
+Buy what you can tomorrow and sell it the following day
+
+AMT 2022-12-03 10:02:14.906116:
+Most recent Close price for AMT: 219.3699951171875
+Tomorrow's Predicted Close Price for AMT: [[216.73383]]
+The following day after Tomorrow is Predicted Close Price for AMT: [[216.93935]]
+Buy what you can tomorrow and sell it the following day
+
+QCOM 2022-12-03 10:06:02.966600:
+Most recent Close price for QCOM: 125.66000366210938
+Tomorrow's Predicted Close Price for QCOM: [[123.81619]]
+The following day after Tomorrow is Predicted Close Price for QCOM: [[124.41477]]
+Buy what you can tomorrow and sell it the following day
+
+DHR 2022-12-03 10:09:52.363929:
+Most recent Close price for DHR: 274.2300109863281
+Tomorrow's Predicted Close Price for DHR: [[268.68768]]
+The following day after Tomorrow is Predicted Close Price for DHR: [[270.4775]]
+Buy what you can tomorrow and sell it the following day
+
+GE 2022-12-03 10:13:40.094125:
+Most recent Close price for GE: 86.87999725341797
+Tomorrow's Predicted Close Price for GE: [[86.26333]]
+The following day after Tomorrow is Predicted Close Price for GE: [[86.107574]]
+Sell all positions ASAP
+
+LMT 2022-12-03 10:17:29.661509:
+Most recent Close price for LMT: 496.2300109863281
+Tomorrow's Predicted Close Price for LMT: [[479.36136]]
+The following day after Tomorrow is Predicted Close Price for LMT: [[478.4824]]
+Sell all positions ASAP
+
+CVS 2022-12-03 10:21:19.029908:
+Most recent Close price for CVS: 102.58000183105469
+Tomorrow's Predicted Close Price for CVS: [[102.19852]]
+The following day after Tomorrow is Predicted Close Price for CVS: [[102.44282]]
+Buy what you can tomorrow and sell it the following day
+
+MO 2022-12-03 10:25:07.037111:
+Most recent Close price for MO: 47.630001068115234
+Tomorrow's Predicted Close Price for MO: [[47.73142]]
+The following day after Tomorrow is Predicted Close Price for MO: [[48.2521]]
+Hold and buy what you can of MO, prepare to sell if conditions change
+
+LOW 2022-12-03 10:28:54.546435:
+Most recent Close price for LOW: 214.83999633789062
+Tomorrow's Predicted Close Price for LOW: [[207.86752]]
+The following day after Tomorrow is Predicted Close Price for LOW: [[208.21223]]
+Buy what you can tomorrow and sell it the following day
+
+BKNG 2022-12-03 10:32:42.235838:
+Most recent Close price for BKNG: 2085.43994140625
+Tomorrow's Predicted Close Price for BKNG: [[2057.049]]
+The following day after Tomorrow is Predicted Close Price for BKNG: [[2048.165]]
+Sell all positions ASAP
+
+FIS 2022-12-03 10:36:29.047427:
+Most recent Close price for FIS: 74.05999755859375
+Tomorrow's Predicted Close Price for FIS: [[73.04066]]
+The following day after Tomorrow is Predicted Close Price for FIS: [[74.19897]]
+Buy what you can tomorrow and sell it the following day
+
+USB 2022-12-03 10:40:16.950456:
+Most recent Close price for USB: 45.63999938964844
+Tomorrow's Predicted Close Price for USB: [[45.34458]]
+The following day after Tomorrow is Predicted Close Price for USB: [[45.510254]]
+Buy what you can tomorrow and sell it the following day
+
+AXP 2022-12-03 10:44:05.229005:
+Most recent Close price for AXP: 156.75
+Tomorrow's Predicted Close Price for AXP: [[155.21822]]
+The following day after Tomorrow is Predicted Close Price for AXP: [[155.27968]]
+Buy what you can tomorrow and sell it the following day
+
+UPS 2022-12-03 10:47:53.644676:
+Most recent Close price for UPS: 189.38999938964844
+Tomorrow's Predicted Close Price for UPS: [[187.25027]]
+The following day after Tomorrow is Predicted Close Price for UPS: [[187.38034]]
+Buy what you can tomorrow and sell it the following day
+
+GILD 2022-12-03 10:51:43.724566:
+Most recent Close price for GILD: 89.02999877929688
+Tomorrow's Predicted Close Price for GILD: [[87.355286]]
+The following day after Tomorrow is Predicted Close Price for GILD: [[86.922226]]
+Sell all positions ASAP
+
+CAT 2022-12-03 10:55:33.714468:
+Most recent Close price for CAT: 236.1300048828125
+Tomorrow's Predicted Close Price for CAT: [[238.78543]]
+The following day after Tomorrow is Predicted Close Price for CAT: [[239.6059]]
+Hold and buy what you can of CAT, prepare to sell if conditions change
+
+MDLZ 2022-12-03 10:59:21.035622:
+Most recent Close price for MDLZ: 68.30999755859375
+Tomorrow's Predicted Close Price for MDLZ: [[68.75665]]
+The following day after Tomorrow is Predicted Close Price for MDLZ: [[69.29859]]
+Hold and buy what you can of MDLZ, prepare to sell if conditions change
+
+CI 2022-12-03 11:03:09.174018:
+Most recent Close price for CI: 327.20001220703125
+Tomorrow's Predicted Close Price for CI: [[318.12085]]
+The following day after Tomorrow is Predicted Close Price for CI: [[316.1114]]
+Sell all positions ASAP
+
+CHTR 2022-12-03 11:06:58.444562:
+Most recent Close price for CHTR: 392.69000244140625
+Tomorrow's Predicted Close Price for CHTR: [[380.25027]]
+The following day after Tomorrow is Predicted Close Price for CHTR: [[380.68463]]
+Buy what you can tomorrow and sell it the following day
+
+TFC 2022-12-03 11:10:47.884853:
+Most recent Close price for TFC: 45.060001373291016
+Tomorrow's Predicted Close Price for TFC: [[46.174274]]
+The following day after Tomorrow is Predicted Close Price for TFC: [[46.083904]]
+Sell all positions Tomorrow
+
+ADP 2022-12-03 11:14:37.870996:
+Most recent Close price for ADP: 269.8999938964844
+Tomorrow's Predicted Close Price for ADP: [[261.35794]]
+The following day after Tomorrow is Predicted Close Price for ADP: [[262.3191]]
+Buy what you can tomorrow and sell it the following day
+
+BDX 2022-12-03 11:18:27.279401:
+Most recent Close price for BDX: 252.3800048828125
+Tomorrow's Predicted Close Price for BDX: [[246.31746]]
+The following day after Tomorrow is Predicted Close Price for BDX: [[246.6052]]
+Buy what you can tomorrow and sell it the following day
+
+TJX 2022-12-03 11:22:17.653855:
+Most recent Close price for TJX: 80.19000244140625
+Tomorrow's Predicted Close Price for TJX: [[77.90233]]
+The following day after Tomorrow is Predicted Close Price for TJX: [[77.10636]]
+Sell all positions ASAP
+
+GS 2022-12-03 11:26:06.562400:
+Most recent Close price for GS: 380.5799865722656
+Tomorrow's Predicted Close Price for GS: [[382.23846]]
+The following day after Tomorrow is Predicted Close Price for GS: [[381.21326]]
+Sell all positions Tomorrow
+
+CME 2022-12-03 11:29:55.037167:
+Most recent Close price for CME: 176.6300048828125
+Tomorrow's Predicted Close Price for CME: [[177.55121]]
+The following day after Tomorrow is Predicted Close Price for CME: [[178.10493]]
+Hold and buy what you can of CME, prepare to sell if conditions change
+
+COP 2022-12-03 11:33:42.151404:
+Most recent Close price for COP: 122.18000030517578
+Tomorrow's Predicted Close Price for COP: [[121.583305]]
+The following day after Tomorrow is Predicted Close Price for COP: [[121.09261]]
+Sell all positions ASAP
+
+CB 2022-12-03 11:37:28.215850:
+Most recent Close price for CB: 219.16000366210938
+Tomorrow's Predicted Close Price for CB: [[214.62346]]
+The following day after Tomorrow is Predicted Close Price for CB: [[213.38936]]
+Sell all positions ASAP
+
+PNC 2022-12-03 11:41:18.850036:
+Most recent Close price for PNC: 164.22999572753906
+Tomorrow's Predicted Close Price for PNC: [[166.82538]]
+The following day after Tomorrow is Predicted Close Price for PNC: [[166.77174]]
+Sell all positions Tomorrow
+
+INTU 2022-12-03 11:45:08.681035:
+Most recent Close price for INTU: 407.9200134277344
+Tomorrow's Predicted Close Price for INTU: [[405.69043]]
+The following day after Tomorrow is Predicted Close Price for INTU: [[409.99442]]
+Buy what you can tomorrow and sell it the following day
+
+ISRG 2022-12-03 11:48:57.050434:
+Most recent Close price for ISRG: 272.25
+Tomorrow's Predicted Close Price for ISRG: [[265.5215]]
+The following day after Tomorrow is Predicted Close Price for ISRG: [[266.93466]]
+Buy what you can tomorrow and sell it the following day
+
+SYK 2022-12-03 11:52:44.565018:
+Most recent Close price for SYK: 243.11000061035156
+Tomorrow's Predicted Close Price for SYK: [[238.31725]]
+The following day after Tomorrow is Predicted Close Price for SYK: [[240.73126]]
+Buy what you can tomorrow and sell it the following day
+
+D 2022-12-03 11:56:32.931568:
+Most recent Close price for D: 60.470001220703125
+Tomorrow's Predicted Close Price for D: [[60.513218]]
+The following day after Tomorrow is Predicted Close Price for D: [[60.484684]]
+Sell all positions Tomorrow
+
+SPGI 2022-12-03 12:00:21.699602:
+Most recent Close price for SPGI: 359.79998779296875
+Tomorrow's Predicted Close Price for SPGI: [[352.1251]]
+The following day after Tomorrow is Predicted Close Price for SPGI: [[353.0365]]
+Buy what you can tomorrow and sell it the following day
+
+FISV 2022-12-03 12:04:11.975058:
+Most recent Close price for FISV: 105.45999908447266
+Tomorrow's Predicted Close Price for FISV: [[102.778854]]
+The following day after Tomorrow is Predicted Close Price for FISV: [[103.21056]]
+Buy what you can tomorrow and sell it the following day
+
+SO 2022-12-03 12:08:04.881120:
+Most recent Close price for SO: 67.33999633789062
+Tomorrow's Predicted Close Price for SO: [[67.58548]]
+The following day after Tomorrow is Predicted Close Price for SO: [[67.70732]]
+Hold and buy what you can of SO, prepare to sell if conditions change
+
+DUK 2022-12-03 12:11:53.444502:
+Most recent Close price for DUK: 99.5199966430664
+Tomorrow's Predicted Close Price for DUK: [[99.517685]]
+The following day after Tomorrow is Predicted Close Price for DUK: [[99.34402]]
+Sell all positions ASAP
+
+TGT 2022-12-03 12:15:44.147016:
+Most recent Close price for TGT: 164.16000366210938
+Tomorrow's Predicted Close Price for TGT: [[170.91484]]
+The following day after Tomorrow is Predicted Close Price for TGT: [[171.81306]]
+Hold and buy what you can of TGT, prepare to sell if conditions change
+
+ZTS 2022-12-03 12:19:34.842654:
+Most recent Close price for ZTS: 157.4199981689453
+Tomorrow's Predicted Close Price for ZTS: [[154.56317]]
+The following day after Tomorrow is Predicted Close Price for ZTS: [[155.75464]]
+Buy what you can tomorrow and sell it the following day
+
+BSX 2022-12-03 12:23:23.652973:
+Most recent Close price for BSX: 46.599998474121094
+Tomorrow's Predicted Close Price for BSX: [[45.76155]]
+The following day after Tomorrow is Predicted Close Price for BSX: [[46.08551]]
+Buy what you can tomorrow and sell it the following day
+
+MS 2022-12-03 12:27:11.460298:
+Most recent Close price for MS: 92.0999984741211
+Tomorrow's Predicted Close Price for MS: [[93.67198]]
+The following day after Tomorrow is Predicted Close Price for MS: [[94.16705]]
+Hold and buy what you can of MS, prepare to sell if conditions change
+
+MU 2022-12-03 12:30:59.188423:
+Most recent Close price for MU: 54.68000030517578
+Tomorrow's Predicted Close Price for MU: [[56.886913]]
+The following day after Tomorrow is Predicted Close Price for MU: [[56.855034]]
+Sell all positions Tomorrow
+
+BLK 2022-12-03 12:34:47.338110:
+Most recent Close price for BLK: 712.97998046875
+Tomorrow's Predicted Close Price for BLK: [[717.92505]]
+The following day after Tomorrow is Predicted Close Price for BLK: [[717.2716]]
+Sell all positions Tomorrow
+
+CL 2022-12-03 12:38:41.616985:
+Most recent Close price for CL: 78.16999816894531
+Tomorrow's Predicted Close Price for CL: [[76.93824]]
+The following day after Tomorrow is Predicted Close Price for CL: [[76.22541]]
+Sell all positions ASAP
+
+CCI 2022-12-03 12:43:10.487979:
+Most recent Close price for CCI: 140.1699981689453
+Tomorrow's Predicted Close Price for CCI: [[139.43738]]
+The following day after Tomorrow is Predicted Close Price for CCI: [[139.33519]]
+Sell all positions ASAP
+
+VRTX 2022-12-03 12:46:59.519065:
+Most recent Close price for VRTX: 321.3699951171875
+Tomorrow's Predicted Close Price for VRTX: [[309.48935]]
+The following day after Tomorrow is Predicted Close Price for VRTX: [[308.70944]]
+Sell all positions ASAP
+
+CSX 2022-12-03 12:50:47.130360:
+Most recent Close price for CSX: 32.04999923706055
+Tomorrow's Predicted Close Price for CSX: [[32.450424]]
+The following day after Tomorrow is Predicted Close Price for CSX: [[32.51742]]
+Hold and buy what you can of CSX, prepare to sell if conditions change
+
+MMC 2022-12-03 12:54:33.589865:
+Most recent Close price for MMC: 173.91000366210938
+Tomorrow's Predicted Close Price for MMC: [[165.88866]]
+The following day after Tomorrow is Predicted Close Price for MMC: [[165.77086]]
+Sell all positions ASAP
+
+AMAT 2022-12-03 12:58:18.601031:
+Most recent Close price for AMAT: 106.70999908447266
+Tomorrow's Predicted Close Price for AMAT: [[105.4172]]
+The following day after Tomorrow is Predicted Close Price for AMAT: [[105.62732]]
+Buy what you can tomorrow and sell it the following day
+
+PLD 2022-12-03 13:02:17.769068:
+Most recent Close price for PLD: 116.94000244140625
+Tomorrow's Predicted Close Price for PLD: [[114.59116]]
+The following day after Tomorrow is Predicted Close Price for PLD: [[114.891914]]
+Buy what you can tomorrow and sell it the following day
+
+SLB 2022-12-03 13:06:19.284121:
+Most recent Close price for SLB: 52.790000915527344
+Tomorrow's Predicted Close Price for SLB: [[51.506607]]
+The following day after Tomorrow is Predicted Close Price for SLB: [[51.772953]]
+Buy what you can tomorrow and sell it the following day
+
+SCHW 2022-12-03 13:11:18.660017:
+Most recent Close price for SCHW: 82.45999908447266
+Tomorrow's Predicted Close Price for SCHW: [[81.52314]]
+The following day after Tomorrow is Predicted Close Price for SCHW: [[81.76265]]
+Buy what you can tomorrow and sell it the following day
+
+DE 2022-12-03 13:15:30.732879:
+Most recent Close price for DE: 445.6099853515625
+Tomorrow's Predicted Close Price for DE: [[424.66754]]
+The following day after Tomorrow is Predicted Close Price for DE: [[423.73856]]
+Sell all positions ASAP
+
+GPN 2022-12-03 13:19:49.100984:
+Most recent Close price for GPN: 103.08000183105469
+Tomorrow's Predicted Close Price for GPN: [[103.44503]]
+The following day after Tomorrow is Predicted Close Price for GPN: [[104.110504]]
+Hold and buy what you can of GPN, prepare to sell if conditions change
+
+NOC 2022-12-03 13:24:28.352773:
+Most recent Close price for NOC: 545.5999755859375
+Tomorrow's Predicted Close Price for NOC: [[540.42883]]
+The following day after Tomorrow is Predicted Close Price for NOC: [[543.14557]]
+Buy what you can tomorrow and sell it the following day
+
+BIIB 2022-12-03 13:28:27.941073:
+Most recent Close price for BIIB: 298.8999938964844
+Tomorrow's Predicted Close Price for BIIB: [[301.32236]]
+The following day after Tomorrow is Predicted Close Price for BIIB: [[301.38577]]
+Hold and buy what you can of BIIB, prepare to sell if conditions change
+
+NOW 2022-12-03 13:32:25.647535:
+Most recent Close price for NOW: 412.8699951171875
+Tomorrow's Predicted Close Price for NOW: [[416.2861]]
+The following day after Tomorrow is Predicted Close Price for NOW: [[419.02795]]
+Hold and buy what you can of NOW, prepare to sell if conditions change
+
+ITW 2022-12-03 13:36:19.738708:
+Most recent Close price for ITW: 228.2899932861328
+Tomorrow's Predicted Close Price for ITW: [[219.87923]]
+The following day after Tomorrow is Predicted Close Price for ITW: [[219.43245]]
+Sell all positions ASAP
+
+ICE 2022-12-03 13:40:13.555967:
+Most recent Close price for ICE: 109.25
+Tomorrow's Predicted Close Price for ICE: [[105.3941]]
+The following day after Tomorrow is Predicted Close Price for ICE: [[105.64414]]
+Buy what you can tomorrow and sell it the following day
+
+APD 2022-12-03 13:44:11.068586:
+Most recent Close price for APD: 318.44000244140625
+Tomorrow's Predicted Close Price for APD: [[308.86453]]
+The following day after Tomorrow is Predicted Close Price for APD: [[309.8574]]
+Buy what you can tomorrow and sell it the following day
+
+AMD 2022-12-03 13:48:05.869970:
+Most recent Close price for AMD: 74.9800033569336
+Tomorrow's Predicted Close Price for AMD: [[77.8333]]
+The following day after Tomorrow is Predicted Close Price for AMD: [[78.39075]]
+Hold and buy what you can of AMD, prepare to sell if conditions change
+
+NSC 2022-12-03 13:52:07.118515:
+Most recent Close price for NSC: 254.07000732421875
+Tomorrow's Predicted Close Price for NSC: [[252.36264]]
+The following day after Tomorrow is Predicted Close Price for NSC: [[252.89632]]
+Buy what you can tomorrow and sell it the following day
+
+EQIX 2022-12-03 13:56:03.852654:
+Most recent Close price for EQIX: 691.469970703125
+Tomorrow's Predicted Close Price for EQIX: [[682.0514]]
+The following day after Tomorrow is Predicted Close Price for EQIX: [[686.003]]
+Buy what you can tomorrow and sell it the following day
+
+PSX 2022-12-03 13:59:54.857352:
+Most recent Close price for PSX: 106.66000366210938
+Tomorrow's Predicted Close Price for PSX: [[107.51009]]
+The following day after Tomorrow is Predicted Close Price for PSX: [[107.30341]]
+Sell all positions Tomorrow
+
+HUM 2022-12-03 14:03:50.536440:
+Most recent Close price for HUM: 546.780029296875
+Tomorrow's Predicted Close Price for HUM: [[540.29755]]
+The following day after Tomorrow is Predicted Close Price for HUM: [[539.8528]]
+Sell all positions ASAP
+
+AON 2022-12-03 14:07:47.142265:
+Most recent Close price for AON: 306.7799987792969
+Tomorrow's Predicted Close Price for AON: [[299.8015]]
+The following day after Tomorrow is Predicted Close Price for AON: [[298.8406]]
+Sell all positions ASAP
+
+ILMN 2022-12-03 14:11:38.344040:
+Most recent Close price for ILMN: 218.75999450683594
+Tomorrow's Predicted Close Price for ILMN: [[217.08772]]
+The following day after Tomorrow is Predicted Close Price for ILMN: [[217.71361]]
+Buy what you can tomorrow and sell it the following day
+
+EW 2022-12-03 14:15:30.091281:
+Most recent Close price for EW: 76.55000305175781
+Tomorrow's Predicted Close Price for EW: [[75.18276]]
+The following day after Tomorrow is Predicted Close Price for EW: [[75.111664]]
+Sell all positions ASAP
+
+EOG 2022-12-03 14:19:21.723487:
+Most recent Close price for EOG: 138.97000122070312
+Tomorrow's Predicted Close Price for EOG: [[137.37703]]
+The following day after Tomorrow is Predicted Close Price for EOG: [[135.85374]]
+Sell all positions ASAP
+
+COF 2022-12-03 14:23:08.985027:
+Most recent Close price for COF: 97.69000244140625
+Tomorrow's Predicted Close Price for COF: [[99.335815]]
+The following day after Tomorrow is Predicted Close Price for COF: [[98.382385]]
+Sell all positions Tomorrow
+
+ECL 2022-12-03 14:26:57.395429:
+Most recent Close price for ECL: 151.36000061035156
+Tomorrow's Predicted Close Price for ECL: [[148.92686]]
+The following day after Tomorrow is Predicted Close Price for ECL: [[149.59721]]
+Buy what you can tomorrow and sell it the following day
+
+SHW 2022-12-03 14:30:44.075470:
+Most recent Close price for SHW: 257.75
+Tomorrow's Predicted Close Price for SHW: [[256.23074]]
+The following day after Tomorrow is Predicted Close Price for SHW: [[258.2678]]
+Buy what you can tomorrow and sell it the following day
+
+KMB 2022-12-03 14:34:40.159020:
+Most recent Close price for KMB: 137.92999267578125
+Tomorrow's Predicted Close Price for KMB: [[136.3957]]
+The following day after Tomorrow is Predicted Close Price for KMB: [[135.44264]]
+Sell all positions ASAP
+
+DD 2022-12-03 14:38:27.649528:
+Most recent Close price for DD: 71.55999755859375
+Tomorrow's Predicted Close Price for DD: [[69.95535]]
+The following day after Tomorrow is Predicted Close Price for DD: [[70.09752]]
+Buy what you can tomorrow and sell it the following day
+
+EMR 2022-12-03 14:42:15.570420:
+Most recent Close price for EMR: 96.87000274658203
+Tomorrow's Predicted Close Price for EMR: [[95.57862]]
+The following day after Tomorrow is Predicted Close Price for EMR: [[95.811615]]
+Buy what you can tomorrow and sell it the following day
+
+AEP 2022-12-03 14:46:07.435901:
+Most recent Close price for AEP: 95.12000274658203
+Tomorrow's Predicted Close Price for AEP: [[94.5821]]
+The following day after Tomorrow is Predicted Close Price for AEP: [[94.08474]]
+Sell all positions ASAP
+
+EL 2022-12-03 14:50:04.315851:
+Most recent Close price for EL: 239.00999450683594
+Tomorrow's Predicted Close Price for EL: [[223.24814]]
+The following day after Tomorrow is Predicted Close Price for EL: [[226.00479]]
+Buy what you can tomorrow and sell it the following day
+
+GM 2022-12-03 14:53:58.677841:
+Most recent Close price for GM: 39.900001525878906
+Tomorrow's Predicted Close Price for GM: [[40.314014]]
+The following day after Tomorrow is Predicted Close Price for GM: [[40.330036]]
+Hold and buy what you can of GM, prepare to sell if conditions change
+
+SPG 2022-12-03 14:57:47.181007:
+Most recent Close price for SPG: 119.33999633789062
+Tomorrow's Predicted Close Price for SPG: [[118.940765]]
+The following day after Tomorrow is Predicted Close Price for SPG: [[119.14212]]
+Buy what you can tomorrow and sell it the following day
+
+ATVI 2022-12-03 15:01:38.034068:
+Most recent Close price for ATVI: 75.76000213623047
+Tomorrow's Predicted Close Price for ATVI: [[74.47667]]
+The following day after Tomorrow is Predicted Close Price for ATVI: [[74.6014]]
+Buy what you can tomorrow and sell it the following day
+
+LHX 2022-12-03 15:05:28.167072:
+Most recent Close price for LHX: 230.0
+Tomorrow's Predicted Close Price for LHX: [[239.07394]]
+The following day after Tomorrow is Predicted Close Price for LHX: [[240.89874]]
+Hold and buy what you can of LHX, prepare to sell if conditions change
+
+WM 2022-12-03 15:09:14.099053:
+Most recent Close price for WM: 169.80999755859375
+Tomorrow's Predicted Close Price for WM: [[163.16125]]
+The following day after Tomorrow is Predicted Close Price for WM: [[163.61267]]
+Buy what you can tomorrow and sell it the following day
+
+WBA 2022-12-03 15:13:04.204737:
+Most recent Close price for WBA: 41.47999954223633
+Tomorrow's Predicted Close Price for WBA: [[41.096657]]
+The following day after Tomorrow is Predicted Close Price for WBA: [[41.089226]]
+Sell all positions ASAP
+
+AIG 2022-12-03 15:16:58.217738:
+Most recent Close price for AIG: 62.75
+Tomorrow's Predicted Close Price for AIG: [[62.05632]]
+The following day after Tomorrow is Predicted Close Price for AIG: [[62.204662]]
+Buy what you can tomorrow and sell it the following day
+
+ADI 2022-12-03 15:20:45.746767:
+Most recent Close price for ADI: 168.6300048828125
+Tomorrow's Predicted Close Price for ADI: [[168.66026]]
+The following day after Tomorrow is Predicted Close Price for ADI: [[169.28165]]
+Hold and buy what you can of ADI, prepare to sell if conditions change
+
+EXC 2022-12-03 15:24:38.541666:
+Most recent Close price for EXC: 41.45000076293945
+Tomorrow's Predicted Close Price for EXC: [[41.367805]]
+The following day after Tomorrow is Predicted Close Price for EXC: [[41.47639]]
+Buy what you can tomorrow and sell it the following day
+
+SYY 2022-12-03 15:28:23.652498:
+Most recent Close price for SYY: 85.33000183105469
+Tomorrow's Predicted Close Price for SYY: [[86.227806]]
+The following day after Tomorrow is Predicted Close Price for SYY: [[86.32055]]
+Hold and buy what you can of SYY, prepare to sell if conditions change
+
+BAX 2022-12-03 15:32:20.622961:
+Most recent Close price for BAX: 53.220001220703125
+Tomorrow's Predicted Close Price for BAX: [[54.22754]]
+The following day after Tomorrow is Predicted Close Price for BAX: [[53.784428]]
+Sell all positions Tomorrow
+
+SRE 2022-12-03 15:36:13.310563:
+Most recent Close price for SRE: 165.92999267578125
+Tomorrow's Predicted Close Price for SRE: [[163.24518]]
+The following day after Tomorrow is Predicted Close Price for SRE: [[161.28627]]
+Sell all positions ASAP
+
+LRCX 2022-12-03 15:40:04.239791:
+Most recent Close price for LRCX: 457.6700134277344
+Tomorrow's Predicted Close Price for LRCX: [[456.05328]]
+The following day after Tomorrow is Predicted Close Price for LRCX: [[456.96652]]
+Buy what you can tomorrow and sell it the following day
+
+BK 2022-12-03 15:43:53.168703:
+Most recent Close price for BK: 45.220001220703125
+Tomorrow's Predicted Close Price for BK: [[45.35995]]
+The following day after Tomorrow is Predicted Close Price for BK: [[45.26466]]
+Sell all positions Tomorrow
+
+PGR 2022-12-03 15:47:40.684797:
+Most recent Close price for PGR: 132.50999450683594
+Tomorrow's Predicted Close Price for PGR: [[126.693275]]
+The following day after Tomorrow is Predicted Close Price for PGR: [[126.250885]]
+Sell all positions ASAP
+
+ROST 2022-12-03 15:52:09.521074:
+Most recent Close price for ROST: 119.0
+Tomorrow's Predicted Close Price for ROST: [[115.974304]]
+The following day after Tomorrow is Predicted Close Price for ROST: [[115.55136]]
+Sell all positions ASAP
+
+MAR 2022-12-03 15:55:56.791459:
+Most recent Close price for MAR: 165.6300048828125
+Tomorrow's Predicted Close Price for MAR: [[162.81844]]
+The following day after Tomorrow is Predicted Close Price for MAR: [[161.81226]]
+Sell all positions ASAP
+
+GD 2022-12-03 15:59:42.824431:
+Most recent Close price for GD: 255.74000549316406
+Tomorrow's Predicted Close Price for GD: [[249.53438]]
+The following day after Tomorrow is Predicted Close Price for GD: [[248.94269]]
+Sell all positions ASAP
+
+KMI 2022-12-03 16:03:29.435190:
+Most recent Close price for KMI: 19.0
+Tomorrow's Predicted Close Price for KMI: [[18.869766]]
+The following day after Tomorrow is Predicted Close Price for KMI: [[18.839642]]
+Sell all positions ASAP
+
+DOW 2022-12-03 16:05:15.726238:
+Most recent Close price for DOW: 51.54999923706055
+Tomorrow's Predicted Close Price for DOW: [[50.047855]]
+The following day after Tomorrow is Predicted Close Price for DOW: [[50.040104]]
+Sell all positions ASAP
+
+ADSK 2022-12-03 16:09:00.490325:
+Most recent Close price for ADSK: 201.11000061035156
+Tomorrow's Predicted Close Price for ADSK: [[211.45241]]
+The following day after Tomorrow is Predicted Close Price for ADSK: [[214.52899]]
+Hold and buy what you can of ADSK, prepare to sell if conditions change
+
+DG 2022-12-03 16:12:48.844606:
+Most recent Close price for DG: 243.9600067138672
+Tomorrow's Predicted Close Price for DG: [[244.92264]]
+The following day after Tomorrow is Predicted Close Price for DG: [[242.56252]]
+Sell all positions Tomorrow
+
+MET 2022-12-03 16:16:40.298865:
+Most recent Close price for MET: 76.91000366210938
+Tomorrow's Predicted Close Price for MET: [[75.584015]]
+The following day after Tomorrow is Predicted Close Price for MET: [[75.4499]]
+Sell all positions ASAP
+
+HCA 2022-12-03 16:20:31.167313:
+Most recent Close price for HCA: 239.02999877929688
+Tomorrow's Predicted Close Price for HCA: [[236.35301]]
+The following day after Tomorrow is Predicted Close Price for HCA: [[236.17267]]
+Sell all positions ASAP
+
+ETN 2022-12-03 16:24:15.567176:
+Most recent Close price for ETN: 163.30999755859375
+Tomorrow's Predicted Close Price for ETN: [[166.276]]
+The following day after Tomorrow is Predicted Close Price for ETN: [[166.62543]]
+Hold and buy what you can of ETN, prepare to sell if conditions change
+
+MPC 2022-12-03 16:27:59.925103:
+Most recent Close price for MPC: 118.2300033569336
+Tomorrow's Predicted Close Price for MPC: [[118.78131]]
+The following day after Tomorrow is Predicted Close Price for MPC: [[117.944725]]
+Sell all positions Tomorrow
+
+AFL 2022-12-03 16:31:45.879339:
+Most recent Close price for AFL: 72.33999633789062
+Tomorrow's Predicted Close Price for AFL: [[71.919556]]
+The following day after Tomorrow is Predicted Close Price for AFL: [[72.08247]]
+Buy what you can tomorrow and sell it the following day
+
+MCO 2022-12-03 16:35:33.586655:
+Most recent Close price for MCO: 301.7300109863281
+Tomorrow's Predicted Close Price for MCO: [[291.41455]]
+The following day after Tomorrow is Predicted Close Price for MCO: [[292.58005]]
+Buy what you can tomorrow and sell it the following day
+
+VLO 2022-12-03 16:39:27.512094:
+Most recent Close price for VLO: 127.06999969482422
+Tomorrow's Predicted Close Price for VLO: [[130.13443]]
+The following day after Tomorrow is Predicted Close Price for VLO: [[129.46338]]
+Sell all positions Tomorrow
+
+PRU 2022-12-03 16:43:17.512897:
+Most recent Close price for PRU: 107.68000030517578
+Tomorrow's Predicted Close Price for PRU: [[105.53754]]
+The following day after Tomorrow is Predicted Close Price for PRU: [[105.227264]]
+Sell all positions ASAP
+
+ROP 2022-12-03 16:47:04.028802:
+Most recent Close price for ROP: 443.8699951171875
+Tomorrow's Predicted Close Price for ROP: [[423.80826]]
+The following day after Tomorrow is Predicted Close Price for ROP: [[424.97412]]
+Buy what you can tomorrow and sell it the following day
+
+F 2022-12-03 16:50:54.194911:
+Most recent Close price for F: 13.859999656677246
+Tomorrow's Predicted Close Price for F: [[13.789783]]
+The following day after Tomorrow is Predicted Close Price for F: [[13.776945]]
+Sell all positions ASAP
+
+FDX 2022-12-03 16:54:39.587680:
+Most recent Close price for FDX: 181.41000366210938
+Tomorrow's Predicted Close Price for FDX: [[179.2032]]
+The following day after Tomorrow is Predicted Close Price for FDX: [[179.20566]]
+Buy what you can tomorrow and sell it the following day
+
+ALL 2022-12-03 16:58:25.421997:
+Most recent Close price for ALL: 130.85000610351562
+Tomorrow's Predicted Close Price for ALL: [[129.98366]]
+The following day after Tomorrow is Predicted Close Price for ALL: [[129.09125]]
+Sell all positions ASAP
+
+OXY 2022-12-03 17:02:15.001966:
+Most recent Close price for OXY: 68.20999908447266
+Tomorrow's Predicted Close Price for OXY: [[69.22901]]
+The following day after Tomorrow is Predicted Close Price for OXY: [[69.19004]]
+Sell all positions Tomorrow
+
+TRV 2022-12-03 17:06:02.991646:
+Most recent Close price for TRV: 189.5399932861328
+Tomorrow's Predicted Close Price for TRV: [[186.75774]]
+The following day after Tomorrow is Predicted Close Price for TRV: [[186.17001]]
+Sell all positions ASAP
+
+NEM 2022-12-03 17:09:47.910975:
+Most recent Close price for NEM: 48.66999816894531
+Tomorrow's Predicted Close Price for NEM: [[47.30657]]
+The following day after Tomorrow is Predicted Close Price for NEM: [[47.772537]]
+Buy what you can tomorrow and sell it the following day
+
+CTSH 2022-12-03 17:13:36.962580:
+Most recent Close price for CTSH: 62.38999938964844
+Tomorrow's Predicted Close Price for CTSH: [[61.444725]]
+The following day after Tomorrow is Predicted Close Price for CTSH: [[61.37117]]
+Sell all positions ASAP
+
+DAL 2022-12-03 17:17:22.930918:
+Most recent Close price for DAL: 35.709999084472656
+Tomorrow's Predicted Close Price for DAL: [[34.187668]]
+The following day after Tomorrow is Predicted Close Price for DAL: [[34.02719]]
+Sell all positions ASAP
+
+ORLY 2022-12-03 17:21:12.328934:
+Most recent Close price for ORLY: 858.4099731445312
+Tomorrow's Predicted Close Price for ORLY: [[859.6129]]
+The following day after Tomorrow is Predicted Close Price for ORLY: [[860.5039]]
+Hold and buy what you can of ORLY, prepare to sell if conditions change
+
+XEL 2022-12-03 17:25:21.580096:
+Most recent Close price for XEL: 69.13999938964844
+Tomorrow's Predicted Close Price for XEL: [[69.235565]]
+The following day after Tomorrow is Predicted Close Price for XEL: [[69.056816]]
+Sell all positions Tomorrow
+
+VFC 2022-12-03 17:29:07.138810:
+Most recent Close price for VFC: 33.220001220703125
+Tomorrow's Predicted Close Price for VFC: [[33.7523]]
+The following day after Tomorrow is Predicted Close Price for VFC: [[33.822693]]
+Hold and buy what you can of VFC, prepare to sell if conditions change
+
+WELL 2022-12-03 17:32:53.444147:
+Most recent Close price for WELL: 71.08000183105469
+Tomorrow's Predicted Close Price for WELL: [[71.02439]]
+The following day after Tomorrow is Predicted Close Price for WELL: [[71.32827]]
+Buy what you can tomorrow and sell it the following day
+
+IR 2022-12-03 17:35:28.345528:
+Most recent Close price for IR: 54.54999923706055
+Tomorrow's Predicted Close Price for IR: [[53.391598]]
+The following day after Tomorrow is Predicted Close Price for IR: [[53.56639]]
+Buy what you can tomorrow and sell it the following day
+
+GIS 2022-12-03 17:39:15.900881:
+Most recent Close price for GIS: 86.5199966430664
+Tomorrow's Predicted Close Price for GIS: [[85.1857]]
+The following day after Tomorrow is Predicted Close Price for GIS: [[85.37468]]
+Buy what you can tomorrow and sell it the following day
+
+TEL 2022-12-03 17:43:03.586553:
+Most recent Close price for TEL: 125.77999877929688
+Tomorrow's Predicted Close Price for TEL: [[123.3419]]
+The following day after Tomorrow is Predicted Close Price for TEL: [[123.03928]]
+Sell all positions ASAP
+
+APH 2022-12-03 17:46:54.189958:
+Most recent Close price for APH: 80.62000274658203
+Tomorrow's Predicted Close Price for APH: [[79.71645]]
+The following day after Tomorrow is Predicted Close Price for APH: [[79.986534]]
+Buy what you can tomorrow and sell it the following day
+
+TSLA 2022-12-03 17:50:44.120019:
+Most recent Close price for TSLA: 194.86000061035156
+Tomorrow's Predicted Close Price for TSLA: [[198.9134]]
+The following day after Tomorrow is Predicted Close Price for TSLA: [[202.10825]]
+Hold and buy what you can of TSLA, prepare to sell if conditions change
+
+META 2022-12-03 17:54:29.423664:
+Most recent Close price for META: 123.48999786376953
+Tomorrow's Predicted Close Price for META: [[116.52132]]
+The following day after Tomorrow is Predicted Close Price for META: [[118.37435]]
+Buy what you can tomorrow and sell it the following day
+
+EA 2022-12-03 17:58:14.299859:
+Most recent Close price for EA: 132.27999877929688
+Tomorrow's Predicted Close Price for EA: [[129.64465]]
+The following day after Tomorrow is Predicted Close Price for EA: [[129.9939]]
+Buy what you can tomorrow and sell it the following day
+
+HLT 2022-12-03 18:02:15.849006:
+Most recent Close price for HLT: 141.4199981689453
+Tomorrow's Predicted Close Price for HLT: [[139.62895]]
+The following day after Tomorrow is Predicted Close Price for HLT: [[139.56223]]
+Sell all positions ASAP
+
+JCI 2022-12-03 18:07:42.362793:
+Most recent Close price for JCI: 68.12000274658203
+Tomorrow's Predicted Close Price for JCI: [[65.072365]]
+The following day after Tomorrow is Predicted Close Price for JCI: [[65.1227]]
+Buy what you can tomorrow and sell it the following day
+
+STZ 2022-12-03 18:11:51.540717:
+Most recent Close price for STZ: 261.04998779296875
+Tomorrow's Predicted Close Price for STZ: [[254.82877]]
+The following day after Tomorrow is Predicted Close Price for STZ: [[254.80171]]
+Sell all positions ASAP
+
+PSA 2022-12-03 18:17:23.774972:
+Most recent Close price for PSA: 295.79998779296875
+Tomorrow's Predicted Close Price for PSA: [[295.7648]]
+The following day after Tomorrow is Predicted Close Price for PSA: [[296.6576]]
+Buy what you can tomorrow and sell it the following day
+
+PPG 2022-12-03 18:21:35.928019:
+Most recent Close price for PPG: 137.3000030517578
+Tomorrow's Predicted Close Price for PPG: [[134.47325]]
+The following day after Tomorrow is Predicted Close Price for PPG: [[134.7077]]
+Buy what you can tomorrow and sell it the following day
+
+OKE 2022-12-03 18:26:09.856007:
+Most recent Close price for OKE: 67.19999694824219
+Tomorrow's Predicted Close Price for OKE: [[67.15821]]
+The following day after Tomorrow is Predicted Close Price for OKE: [[67.53379]]
+Buy what you can tomorrow and sell it the following day
+
+YUM 2022-12-03 18:31:23.361141:
+Most recent Close price for YUM: 129.67999267578125
+Tomorrow's Predicted Close Price for YUM: [[125.471634]]
+The following day after Tomorrow is Predicted Close Price for YUM: [[125.54727]]
+Buy what you can tomorrow and sell it the following day
+
+ZBH 2022-12-03 18:35:23.258919:
+Most recent Close price for ZBH: 122.97000122070312
+Tomorrow's Predicted Close Price for ZBH: [[121.49952]]
+The following day after Tomorrow is Predicted Close Price for ZBH: [[121.25768]]
+Sell all positions ASAP
+
+HPQ 2022-12-03 18:39:20.123044:
+Most recent Close price for HPQ: 29.639999389648438
+Tomorrow's Predicted Close Price for HPQ: [[29.629099]]
+The following day after Tomorrow is Predicted Close Price for HPQ: [[29.636717]]
+Buy what you can tomorrow and sell it the following day
+
+ED 2022-12-03 18:43:41.405921:
+Most recent Close price for ED: 97.3499984741211
+Tomorrow's Predicted Close Price for ED: [[95.83705]]
+The following day after Tomorrow is Predicted Close Price for ED: [[94.84987]]
+Sell all positions ASAP
+
+REGN 2022-12-03 18:47:42.872376:
+Most recent Close price for REGN: 766.3900146484375
+Tomorrow's Predicted Close Price for REGN: [[750.32153]]
+The following day after Tomorrow is Predicted Close Price for REGN: [[743.1672]]
+Sell all positions ASAP
+
+PEG 2022-12-03 18:51:33.842561:
+Most recent Close price for PEG: 60.91999816894531
+Tomorrow's Predicted Close Price for PEG: [[60.717205]]
+The following day after Tomorrow is Predicted Close Price for PEG: [[60.906544]]
+Buy what you can tomorrow and sell it the following day
+
+STT 2022-12-03 18:55:29.052093:
+Most recent Close price for STT: 77.72000122070312
+Tomorrow's Predicted Close Price for STT: [[79.36546]]
+The following day after Tomorrow is Predicted Close Price for STT: [[79.95189]]
+Hold and buy what you can of STT, prepare to sell if conditions change
+
+AVB 2022-12-03 18:59:29.485896:
+Most recent Close price for AVB: 172.57000732421875
+Tomorrow's Predicted Close Price for AVB: [[172.35555]]
+The following day after Tomorrow is Predicted Close Price for AVB: [[172.33817]]
+Sell all positions ASAP
+
+WEC 2022-12-03 19:03:21.185604:
+Most recent Close price for WEC: 96.05999755859375
+Tomorrow's Predicted Close Price for WEC: [[94.77977]]
+The following day after Tomorrow is Predicted Close Price for WEC: [[93.98274]]
+Sell all positions ASAP
+
+TROW 2022-12-03 19:07:13.553370:
+Most recent Close price for TROW: 126.01000213623047
+Tomorrow's Predicted Close Price for TROW: [[125.58522]]
+The following day after Tomorrow is Predicted Close Price for TROW: [[126.612434]]
+Buy what you can tomorrow and sell it the following day
+
+AZO 2022-12-03 19:11:02.821832:
+Most recent Close price for AZO: 2571.590087890625
+Tomorrow's Predicted Close Price for AZO: [[2486.3381]]
+The following day after Tomorrow is Predicted Close Price for AZO: [[2474.9531]]
+Sell all positions ASAP
+
+KLAC 2022-12-03 19:14:54.138055:
+Most recent Close price for KLAC: 389.55999755859375
+Tomorrow's Predicted Close Price for KLAC: [[384.80823]]
+The following day after Tomorrow is Predicted Close Price for KLAC: [[386.64566]]
+Buy what you can tomorrow and sell it the following day
+
+WMB 2022-12-03 19:18:39.285382:
+Most recent Close price for WMB: 34.959999084472656
+Tomorrow's Predicted Close Price for WMB: [[34.505783]]
+The following day after Tomorrow is Predicted Close Price for WMB: [[34.494976]]
+Sell all positions ASAP
+
+EQR 2022-12-03 19:22:24.234781:
+Most recent Close price for EQR: 64.11000061035156
+Tomorrow's Predicted Close Price for EQR: [[64.27219]]
+The following day after Tomorrow is Predicted Close Price for EQR: [[64.27222]]
+Hold and buy what you can of EQR, prepare to sell if conditions change
+
+IQV 2022-12-03 19:26:15.326499:
+Most recent Close price for IQV: 217.72999572753906
+Tomorrow's Predicted Close Price for IQV: [[211.98268]]
+The following day after Tomorrow is Predicted Close Price for IQV: [[211.63263]]
+Sell all positions ASAP
+
+TDG 2022-12-03 19:30:03.864153:
+Most recent Close price for TDG: 621.8200073242188
+Tomorrow's Predicted Close Price for TDG: [[633.9383]]
+The following day after Tomorrow is Predicted Close Price for TDG: [[636.9266]]
+Hold and buy what you can of TDG, prepare to sell if conditions change
+
+CMI 2022-12-03 19:34:00.149913:
+Most recent Close price for CMI: 249.75
+Tomorrow's Predicted Close Price for CMI: [[248.67833]]
+The following day after Tomorrow is Predicted Close Price for CMI: [[248.91006]]
+Buy what you can tomorrow and sell it the following day
+
+MSI 2022-12-03 19:37:51.614987:
+Most recent Close price for MSI: 272.70001220703125
+Tomorrow's Predicted Close Price for MSI: [[264.98846]]
+The following day after Tomorrow is Predicted Close Price for MSI: [[265.15753]]
+Buy what you can tomorrow and sell it the following day
+
+EBAY 2022-12-03 19:41:37.760606:
+Most recent Close price for EBAY: 45.20000076293945
+Tomorrow's Predicted Close Price for EBAY: [[45.88769]]
+The following day after Tomorrow is Predicted Close Price for EBAY: [[46.2702]]
+Hold and buy what you can of EBAY, prepare to sell if conditions change
+
+PCAR 2022-12-03 19:45:24.771017:
+Most recent Close price for PCAR: 105.79000091552734
+Tomorrow's Predicted Close Price for PCAR: [[105.7234]]
+The following day after Tomorrow is Predicted Close Price for PCAR: [[105.805855]]
+Buy what you can tomorrow and sell it the following day
+
+SBAC 2022-12-03 19:49:17.915908:
+Most recent Close price for SBAC: 295.25
+Tomorrow's Predicted Close Price for SBAC: [[299.1756]]
+The following day after Tomorrow is Predicted Close Price for SBAC: [[299.904]]
+Hold and buy what you can of SBAC, prepare to sell if conditions change
+
+PAYX 2022-12-03 19:53:05.870908:
+Most recent Close price for PAYX: 125.9800033569336
+Tomorrow's Predicted Close Price for PAYX: [[123.593445]]
+The following day after Tomorrow is Predicted Close Price for PAYX: [[124.28789]]
+Buy what you can tomorrow and sell it the following day
+
+ES 2022-12-03 19:56:51.155689:
+Most recent Close price for ES: 83.70999908447266
+Tomorrow's Predicted Close Price for ES: [[83.97502]]
+The following day after Tomorrow is Predicted Close Price for ES: [[84.452774]]
+Hold and buy what you can of ES, prepare to sell if conditions change
+
+DFS 2022-12-03 20:00:52.968295:
+Most recent Close price for DFS: 105.4000015258789
+Tomorrow's Predicted Close Price for DFS: [[106.99724]]
+The following day after Tomorrow is Predicted Close Price for DFS: [[106.680855]]
+Sell all positions Tomorrow
+
+EIX 2022-12-03 20:04:45.130143:
+Most recent Close price for EIX: 65.37000274658203
+Tomorrow's Predicted Close Price for EIX: [[65.259476]]
+The following day after Tomorrow is Predicted Close Price for EIX: [[64.90966]]
+Sell all positions ASAP
+
+TSN 2022-12-03 20:08:31.475206:
+Most recent Close price for TSN: 66.0199966430664
+Tomorrow's Predicted Close Price for TSN: [[65.67488]]
+The following day after Tomorrow is Predicted Close Price for TSN: [[65.62883]]
+Sell all positions ASAP
+
+PH 2022-12-03 20:12:16.356216:
+Most recent Close price for PH: 297.3800048828125
+Tomorrow's Predicted Close Price for PH: [[299.5819]]
+The following day after Tomorrow is Predicted Close Price for PH: [[300.9425]]
+Hold and buy what you can of PH, prepare to sell if conditions change
+
+A 2022-12-03 20:16:05.012841:
+Most recent Close price for A: 155.6699981689453
+Tomorrow's Predicted Close Price for A: [[160.38283]]
+The following day after Tomorrow is Predicted Close Price for A: [[161.14563]]
+Hold and buy what you can of A, prepare to sell if conditions change
+
+CNC 2022-12-03 20:19:53.397310:
+Most recent Close price for CNC: 85.79000091552734
+Tomorrow's Predicted Close Price for CNC: [[84.10195]]
+The following day after Tomorrow is Predicted Close Price for CNC: [[83.49909]]
+Sell all positions ASAP
+
+FE 2022-12-03 20:23:41.220904:
+Most recent Close price for FE: 41.52000045776367
+Tomorrow's Predicted Close Price for FE: [[42.013348]]
+The following day after Tomorrow is Predicted Close Price for FE: [[42.247654]]
+Hold and buy what you can of FE, prepare to sell if conditions change
+
+ADM 2022-12-03 20:27:29.636861:
+Most recent Close price for ADM: 91.70999908447266
+Tomorrow's Predicted Close Price for ADM: [[93.93991]]
+The following day after Tomorrow is Predicted Close Price for ADM: [[93.00887]]
+Sell all positions Tomorrow
+
+LUV 2022-12-03 20:31:21.616679:
+Most recent Close price for LUV: 39.75
+Tomorrow's Predicted Close Price for LUV: [[39.816303]]
+The following day after Tomorrow is Predicted Close Price for LUV: [[39.803646]]
+Sell all positions Tomorrow
+
+PPL 2022-12-03 20:35:06.655873:
+Most recent Close price for PPL: 29.18000030517578
+Tomorrow's Predicted Close Price for PPL: [[29.59447]]
+The following day after Tomorrow is Predicted Close Price for PPL: [[29.628517]]
+Hold and buy what you can of PPL, prepare to sell if conditions change
+
+PXD 2022-12-03 20:38:55.210925:
+Most recent Close price for PXD: 239.41000366210938
+Tomorrow's Predicted Close Price for PXD: [[237.70226]]
+The following day after Tomorrow is Predicted Close Price for PXD: [[237.74437]]
+Buy what you can tomorrow and sell it the following day
+
+MCHP 2022-12-03 20:43:25.372281:
+Most recent Close price for MCHP: 77.30999755859375
+Tomorrow's Predicted Close Price for MCHP: [[77.853226]]
+The following day after Tomorrow is Predicted Close Price for MCHP: [[78.08943]]
+Hold and buy what you can of MCHP, prepare to sell if conditions change
+
+TWTR 2022-12-03 20:47:08.924981:
+Most recent Close price for TWTR: 53.70000076293945
+Tomorrow's Predicted Close Price for TWTR: [[54.751358]]
+The following day after Tomorrow is Predicted Close Price for TWTR: [[55.606754]]
+Hold and buy what you can of TWTR, prepare to sell if conditions change
+
+MCK 2022-12-03 20:50:55.205260:
+Most recent Close price for MCK: 386.8500061035156
+Tomorrow's Predicted Close Price for MCK: [[377.33878]]
+The following day after Tomorrow is Predicted Close Price for MCK: [[377.07327]]
+Sell all positions ASAP
+
+SWK 2022-12-03 20:54:45.881604:
+Most recent Close price for SWK: 81.94000244140625
+Tomorrow's Predicted Close Price for SWK: [[83.00117]]
+The following day after Tomorrow is Predicted Close Price for SWK: [[83.380035]]
+Hold and buy what you can of SWK, prepare to sell if conditions change
+
+DTE 2022-12-03 20:58:40.684035:
+Most recent Close price for DTE: 115.05999755859375
+Tomorrow's Predicted Close Price for DTE: [[114.828064]]
+The following day after Tomorrow is Predicted Close Price for DTE: [[114.679665]]
+Sell all positions ASAP
+
+APTV 2022-12-03 21:02:27.088834:
+Most recent Close price for APTV: 103.7300033569336
+Tomorrow's Predicted Close Price for APTV: [[106.1936]]
+The following day after Tomorrow is Predicted Close Price for APTV: [[106.84123]]
+Hold and buy what you can of APTV, prepare to sell if conditions change
+
+MNST 2022-12-03 21:06:13.210015:
+Most recent Close price for MNST: 104.04000091552734
+Tomorrow's Predicted Close Price for MNST: [[102.61568]]
+The following day after Tomorrow is Predicted Close Price for MNST: [[102.84728]]
+Buy what you can tomorrow and sell it the following day
+
+FLT 2022-12-03 21:10:06.008756:
+Most recent Close price for FLT: 193.60000610351562
+Tomorrow's Predicted Close Price for FLT: [[195.6246]]
+The following day after Tomorrow is Predicted Close Price for FLT: [[196.28029]]
+Hold and buy what you can of FLT, prepare to sell if conditions change
+
+DLR 2022-12-03 21:14:05.069208:
+Most recent Close price for DLR: 110.8499984741211
+Tomorrow's Predicted Close Price for DLR: [[110.5359]]
+The following day after Tomorrow is Predicted Close Price for DLR: [[110.78906]]
+Buy what you can tomorrow and sell it the following day
+
+TMUS 2022-12-03 21:18:20.179804:
+Most recent Close price for TMUS: 152.41000366210938
+Tomorrow's Predicted Close Price for TMUS: [[149.32295]]
+The following day after Tomorrow is Predicted Close Price for TMUS: [[149.1271]]
+Sell all positions ASAP
+
+VRSK 2022-12-03 21:22:11.519780:
+Most recent Close price for VRSK: 185.44000244140625
+Tomorrow's Predicted Close Price for VRSK: [[184.25368]]
+The following day after Tomorrow is Predicted Close Price for VRSK: [[185.4324]]
+Buy what you can tomorrow and sell it the following day
+
+LYB 2022-12-03 21:26:10.691137:
+Most recent Close price for LYB: 84.9000015258789
+Tomorrow's Predicted Close Price for LYB: [[84.33431]]
+The following day after Tomorrow is Predicted Close Price for LYB: [[84.22498]]
+Sell all positions ASAP
+
+O 2022-12-03 21:29:58.883083:
+Most recent Close price for O: 62.900001525878906
+Tomorrow's Predicted Close Price for O: [[63.299698]]
+The following day after Tomorrow is Predicted Close Price for O: [[63.465736]]
+Hold and buy what you can of O, prepare to sell if conditions change
+
+ETR 2022-12-03 21:33:45.158904:
+Most recent Close price for ETR: 115.91000366210938
+Tomorrow's Predicted Close Price for ETR: [[114.657684]]
+The following day after Tomorrow is Predicted Close Price for ETR: [[114.50925]]
+Sell all positions ASAP
+
+ROK 2022-12-03 21:37:37.024984:
+Most recent Close price for ROK: 265.489990234375
+Tomorrow's Predicted Close Price for ROK: [[259.96387]]
+The following day after Tomorrow is Predicted Close Price for ROK: [[260.04254]]
+Buy what you can tomorrow and sell it the following day
+
+LVS 2022-12-03 21:41:28.294386:
+Most recent Close price for LVS: 47.959999084472656
+Tomorrow's Predicted Close Price for LVS: [[47.559147]]
+The following day after Tomorrow is Predicted Close Price for LVS: [[47.832016]]
+Buy what you can tomorrow and sell it the following day
+
+KR 2022-12-03 21:45:22.701131:
+Most recent Close price for KR: 47.56999969482422
+Tomorrow's Predicted Close Price for KR: [[47.592464]]
+The following day after Tomorrow is Predicted Close Price for KR: [[47.071022]]
+Sell all positions Tomorrow
+
+NTRS 2022-12-03 21:49:16.347996:
+Most recent Close price for NTRS: 91.66000366210938
+Tomorrow's Predicted Close Price for NTRS: [[93.01215]]
+The following day after Tomorrow is Predicted Close Price for NTRS: [[93.09468]]
+Hold and buy what you can of NTRS, prepare to sell if conditions change
+
+RCL 2022-12-03 21:54:00.771080:
+Most recent Close price for RCL: 60.5099983215332
+Tomorrow's Predicted Close Price for RCL: [[60.277973]]
+The following day after Tomorrow is Predicted Close Price for RCL: [[60.504494]]
+Buy what you can tomorrow and sell it the following day
+
+MTB 2022-12-03 21:58:02.443001:
+Most recent Close price for MTB: 169.10000610351562
+Tomorrow's Predicted Close Price for MTB: [[168.28993]]
+The following day after Tomorrow is Predicted Close Price for MTB: [[167.97989]]
+Sell all positions ASAP
+
+AME 2022-12-03 22:01:50.467989:
+Most recent Close price for AME: 144.38999938964844
+Tomorrow's Predicted Close Price for AME: [[142.05045]]
+The following day after Tomorrow is Predicted Close Price for AME: [[142.55763]]
+Buy what you can tomorrow and sell it the following day
+
+IDXX 2022-12-03 22:05:50.174036:
+Most recent Close price for IDXX: 435.29998779296875
+Tomorrow's Predicted Close Price for IDXX: [[420.46414]]
+The following day after Tomorrow is Predicted Close Price for IDXX: [[426.1727]]
+Buy what you can tomorrow and sell it the following day
+
+FTV 2022-12-03 22:09:11.104534:
+Most recent Close price for FTV: 68.23999786376953
+Tomorrow's Predicted Close Price for FTV: [[67.28941]]
+The following day after Tomorrow is Predicted Close Price for FTV: [[67.44739]]
+Buy what you can tomorrow and sell it the following day
+
+GLW 2022-12-03 22:13:33.285020:
+Most recent Close price for GLW: 34.0
+Tomorrow's Predicted Close Price for GLW: [[33.67122]]
+The following day after Tomorrow is Predicted Close Price for GLW: [[33.711742]]
+Buy what you can tomorrow and sell it the following day
+
+CTAS 2022-12-03 22:18:05.483967:
+Most recent Close price for CTAS: 462.5299987792969
+Tomorrow's Predicted Close Price for CTAS: [[455.69077]]
+The following day after Tomorrow is Predicted Close Price for CTAS: [[456.3548]]
+Buy what you can tomorrow and sell it the following day
+
+RMD 2022-12-03 22:22:08.104782:
+Most recent Close price for RMD: 232.89999389648438
+Tomorrow's Predicted Close Price for RMD: [[229.93785]]
+The following day after Tomorrow is Predicted Close Price for RMD: [[230.77037]]
+Buy what you can tomorrow and sell it the following day
+
+WY 2022-12-03 22:26:09.633980:
+Most recent Close price for WY: 32.41999816894531
+Tomorrow's Predicted Close Price for WY: [[31.963308]]
+The following day after Tomorrow is Predicted Close Price for WY: [[32.010063]]
+Buy what you can tomorrow and sell it the following day
+
+ANSS 2022-12-03 22:31:08.580152:
+Most recent Close price for ANSS: 256.739990234375
+Tomorrow's Predicted Close Price for ANSS: [[257.5117]]
+The following day after Tomorrow is Predicted Close Price for ANSS: [[261.4482]]
+Hold and buy what you can of ANSS, prepare to sell if conditions change
+
+AWK 2022-12-03 22:34:57.974398:
+Most recent Close price for AWK: 153.74000549316406
+Tomorrow's Predicted Close Price for AWK: [[150.3433]]
+The following day after Tomorrow is Predicted Close Price for AWK: [[150.6769]]
+Buy what you can tomorrow and sell it the following day
+
+HSY 2022-12-03 22:38:48.160818:
+Most recent Close price for HSY: 234.72999572753906
+Tomorrow's Predicted Close Price for HSY: [[236.7531]]
+The following day after Tomorrow is Predicted Close Price for HSY: [[236.98888]]
+Hold and buy what you can of HSY, prepare to sell if conditions change
+
+FITB 2022-12-03 22:50:00.102500:
+Most recent Close price for FITB: 35.25
+Tomorrow's Predicted Close Price for FITB: [[36.15083]]
+The following day after Tomorrow is Predicted Close Price for FITB: [[36.101368]]
+Sell all positions Tomorrow
+
+DLTR 2022-12-03 22:57:53.842702:
+Most recent Close price for DLTR: 151.1999969482422
+Tomorrow's Predicted Close Price for DLTR: [[151.96709]]
+The following day after Tomorrow is Predicted Close Price for DLTR: [[152.43967]]
+Hold and buy what you can of DLTR, prepare to sell if conditions change
+
+HIG 2022-12-03 23:01:53.518310:
+Most recent Close price for HIG: 75.83999633789062
+Tomorrow's Predicted Close Price for HIG: [[76.36961]]
+The following day after Tomorrow is Predicted Close Price for HIG: [[76.48996]]
+Hold and buy what you can of HIG, prepare to sell if conditions change
+
+MSCI 2022-12-03 23:06:19.857971:
+Most recent Close price for MSCI: 518.8300170898438
+Tomorrow's Predicted Close Price for MSCI: [[491.2248]]
+The following day after Tomorrow is Predicted Close Price for MSCI: [[492.91974]]
+Buy what you can tomorrow and sell it the following day
+
+CTVA 2022-12-03 23:09:02.006912:
+Most recent Close price for CTVA: 67.30999755859375
+Tomorrow's Predicted Close Price for CTVA: [[64.92905]]
+The following day after Tomorrow is Predicted Close Price for CTVA: [[64.960464]]
+Buy what you can tomorrow and sell it the following day
+
+SYF 2022-12-03 23:12:50.746807:
+Most recent Close price for SYF: 35.29999923706055
+Tomorrow's Predicted Close Price for SYF: [[36.09491]]
+The following day after Tomorrow is Predicted Close Price for SYF: [[35.68459]]
+Sell all positions Tomorrow
+
+HAL 2022-12-03 23:16:46.693007:
+Most recent Close price for HAL: 38.869998931884766
+Tomorrow's Predicted Close Price for HAL: [[37.829277]]
+The following day after Tomorrow is Predicted Close Price for HAL: [[38.21127]]
+Buy what you can tomorrow and sell it the following day
+
+VTR 2022-12-03 23:20:39.235853:
+Most recent Close price for VTR: 46.2400016784668
+Tomorrow's Predicted Close Price for VTR: [[46.581867]]
+The following day after Tomorrow is Predicted Close Price for VTR: [[46.830242]]
+Hold and buy what you can of VTR, prepare to sell if conditions change
+
+CMG 2022-12-03 23:32:35.031926:
+Most recent Close price for CMG: 1604.8800048828125
+Tomorrow's Predicted Close Price for CMG: [[1575.1425]]
+The following day after Tomorrow is Predicted Close Price for CMG: [[1588.0978]]
+Buy what you can tomorrow and sell it the following day
+
+AMP 2022-12-03 23:46:36.374605:
+Most recent Close price for AMP: 330.17999267578125
+Tomorrow's Predicted Close Price for AMP: [[322.58038]]
+The following day after Tomorrow is Predicted Close Price for AMP: [[321.76224]]
+Sell all positions ASAP
+
+SWKS 2022-12-04 00:00:02.513032:
+Most recent Close price for SWKS: 93.95999908447266
+Tomorrow's Predicted Close Price for SWKS: [[96.06016]]
+The following day after Tomorrow is Predicted Close Price for SWKS: [[96.88609]]
+Hold and buy what you can of SWKS, prepare to sell if conditions change
+
+FAST 2022-12-04 00:13:59.499606:
+Most recent Close price for FAST: 51.43000030517578
+Tomorrow's Predicted Close Price for FAST: [[52.790096]]
+The following day after Tomorrow is Predicted Close Price for FAST: [[52.964146]]
+Hold and buy what you can of FAST, prepare to sell if conditions change
+
+MKC 2022-12-04 00:27:18.237377:
+Most recent Close price for MKC: 86.37999725341797
+Tomorrow's Predicted Close Price for MKC: [[87.42683]]
+The following day after Tomorrow is Predicted Close Price for MKC: [[87.88171]]
+Hold and buy what you can of MKC, prepare to sell if conditions change
+
+SNPS 2022-12-04 00:32:40.709026:
+Most recent Close price for SNPS: 348.1700134277344
+Tomorrow's Predicted Close Price for SNPS: [[339.2845]]
+The following day after Tomorrow is Predicted Close Price for SNPS: [[342.21555]]
+Buy what you can tomorrow and sell it the following day
+
+CDW 2022-12-04 00:37:11.826024:
+Most recent Close price for CDW: 190.02000427246094
+Tomorrow's Predicted Close Price for CDW: [[191.23293]]
+The following day after Tomorrow is Predicted Close Price for CDW: [[192.14296]]
+Hold and buy what you can of CDW, prepare to sell if conditions change
+
+HPE 2022-12-04 00:40:55.922008:
+Most recent Close price for HPE: 16.690000534057617
+Tomorrow's Predicted Close Price for HPE: [[16.408844]]
+The following day after Tomorrow is Predicted Close Price for HPE: [[16.418192]]
+Buy what you can tomorrow and sell it the following day
+
+CBRE 2022-12-04 00:44:50.050622:
+Most recent Close price for CBRE: 79.25
+Tomorrow's Predicted Close Price for CBRE: [[78.91704]]
+The following day after Tomorrow is Predicted Close Price for CBRE: [[79.485695]]
+Buy what you can tomorrow and sell it the following day
+
+CCL 2022-12-04 00:48:40.387997:
+Most recent Close price for CCL: 10.0
+Tomorrow's Predicted Close Price for CCL: [[9.703889]]
+The following day after Tomorrow is Predicted Close Price for CCL: [[9.809462]]
+Buy what you can tomorrow and sell it the following day
+
+KEY 2022-12-04 00:52:37.781229:
+Most recent Close price for KEY: 18.549999237060547
+Tomorrow's Predicted Close Price for KEY: [[18.860123]]
+The following day after Tomorrow is Predicted Close Price for KEY: [[18.914576]]
+Hold and buy what you can of KEY, prepare to sell if conditions change
+
+VRSN 2022-12-04 00:56:37.174774:
+Most recent Close price for VRSN: 202.10000610351562
+Tomorrow's Predicted Close Price for VRSN: [[198.8444]]
+The following day after Tomorrow is Predicted Close Price for VRSN: [[199.47635]]
+Buy what you can tomorrow and sell it the following day
+
+BBY 2022-12-04 01:04:59.664572:
+Most recent Close price for BBY: 86.5999984741211
+Tomorrow's Predicted Close Price for BBY: [[85.4184]]
+The following day after Tomorrow is Predicted Close Price for BBY: [[85.63298]]
+Buy what you can tomorrow and sell it the following day
+
+ALGN 2022-12-04 01:18:43.708365:
+Most recent Close price for ALGN: 198.41000366210938
+Tomorrow's Predicted Close Price for ALGN: [[195.33698]]
+The following day after Tomorrow is Predicted Close Price for ALGN: [[196.9219]]
+Buy what you can tomorrow and sell it the following day
+
+BXP 2022-12-04 01:31:55.436864:
+Most recent Close price for BXP: 70.70999908447266
+Tomorrow's Predicted Close Price for BXP: [[69.578896]]
+The following day after Tomorrow is Predicted Close Price for BXP: [[69.24937]]
+Sell all positions ASAP
+
+FRC 2022-12-04 02:07:14.838488:
+Most recent Close price for FRC: 126.16999816894531
+Tomorrow's Predicted Close Price for FRC: [[126.02385]]
+The following day after Tomorrow is Predicted Close Price for FRC: [[127.12981]]
+Buy what you can tomorrow and sell it the following day
+
+CDNS 2022-12-04 02:11:18.423509:
+Most recent Close price for CDNS: 172.42999267578125
+Tomorrow's Predicted Close Price for CDNS: [[172.39462]]
+The following day after Tomorrow is Predicted Close Price for CDNS: [[173.77184]]
+Buy what you can tomorrow and sell it the following day
+
+ESS 2022-12-04 02:15:46.802271:
+Most recent Close price for ESS: 217.72000122070312
+Tomorrow's Predicted Close Price for ESS: [[219.94826]]
+The following day after Tomorrow is Predicted Close Price for ESS: [[220.23805]]
+Hold and buy what you can of ESS, prepare to sell if conditions change
+
+KHC 2022-12-04 02:19:48.070936:
+Most recent Close price for KHC: 39.83000183105469
+Tomorrow's Predicted Close Price for KHC: [[38.913868]]
+The following day after Tomorrow is Predicted Close Price for KHC: [[38.970722]]
+Buy what you can tomorrow and sell it the following day
+
+UAL 2022-12-04 02:23:40.110647:
+Most recent Close price for UAL: 43.88999938964844
+Tomorrow's Predicted Close Price for UAL: [[44.780445]]
+The following day after Tomorrow is Predicted Close Price for UAL: [[45.011295]]
+Hold and buy what you can of UAL, prepare to sell if conditions change
+
+MTD 2022-12-04 02:27:27.570874:
+Most recent Close price for MTD: 1486.0999755859375
+Tomorrow's Predicted Close Price for MTD: [[1423.4061]]
+The following day after Tomorrow is Predicted Close Price for MTD: [[1426.1991]]
+Buy what you can tomorrow and sell it the following day
+
+CLX 2022-12-04 02:31:13.601231:
+Most recent Close price for CLX: 150.67999267578125
+Tomorrow's Predicted Close Price for CLX: [[149.70505]]
+The following day after Tomorrow is Predicted Close Price for CLX: [[150.1965]]
+Buy what you can tomorrow and sell it the following day
+
+KEYS 2022-12-04 02:35:01.466469:
+Most recent Close price for KEYS: 180.52999877929688
+Tomorrow's Predicted Close Price for KEYS: [[177.12965]]
+The following day after Tomorrow is Predicted Close Price for KEYS: [[177.91466]]
+Buy what you can tomorrow and sell it the following day
+
+RSG 2022-12-04 02:38:47.881944:
+Most recent Close price for RSG: 140.52000427246094
+Tomorrow's Predicted Close Price for RSG: [[139.21043]]
+The following day after Tomorrow is Predicted Close Price for RSG: [[139.75932]]
+Buy what you can tomorrow and sell it the following day
+
+VMC 2022-12-04 02:42:30.915105:
+Most recent Close price for VMC: 184.49000549316406
+Tomorrow's Predicted Close Price for VMC: [[179.01427]]
+The following day after Tomorrow is Predicted Close Price for VMC: [[178.71907]]
+Sell all positions ASAP
+
+FCX 2022-12-04 02:46:16.885522:
+Most recent Close price for FCX: 40.220001220703125
+Tomorrow's Predicted Close Price for FCX: [[38.77763]]
+The following day after Tomorrow is Predicted Close Price for FCX: [[38.995247]]
+Buy what you can tomorrow and sell it the following day
+
+CPRT 2022-12-04 02:50:05.002041:
+Most recent Close price for CPRT: 67.1500015258789
+Tomorrow's Predicted Close Price for CPRT: [[67.897446]]
+The following day after Tomorrow is Predicted Close Price for CPRT: [[68.33542]]
+Hold and buy what you can of CPRT, prepare to sell if conditions change
+
+AEE 2022-12-04 02:53:52.897328:
+Most recent Close price for AEE: 88.04000091552734
+Tomorrow's Predicted Close Price for AEE: [[87.309586]]
+The following day after Tomorrow is Predicted Close Price for AEE: [[87.031]]
+Sell all positions ASAP
+
+ARE 2022-12-04 02:57:39.600779:
+Most recent Close price for ARE: 153.32000732421875
+Tomorrow's Predicted Close Price for ARE: [[154.66753]]
+The following day after Tomorrow is Predicted Close Price for ARE: [[155.0298]]
+Hold and buy what you can of ARE, prepare to sell if conditions change
+
+WDC 2022-12-04 03:01:27.826315:
+Most recent Close price for WDC: 35.45000076293945
+Tomorrow's Predicted Close Price for WDC: [[37.389194]]
+The following day after Tomorrow is Predicted Close Price for WDC: [[37.7858]]
+Hold and buy what you can of WDC, prepare to sell if conditions change
+
+IP 2022-12-04 03:05:12.174986:
+Most recent Close price for IP: 37.099998474121094
+Tomorrow's Predicted Close Price for IP: [[37.472263]]
+The following day after Tomorrow is Predicted Close Price for IP: [[37.69803]]
+Hold and buy what you can of IP, prepare to sell if conditions change
+
+DHI 2022-12-04 03:09:01.317886:
+Most recent Close price for DHI: 86.33000183105469
+Tomorrow's Predicted Close Price for DHI: [[86.92553]]
+The following day after Tomorrow is Predicted Close Price for DHI: [[87.39272]]
+Hold and buy what you can of DHI, prepare to sell if conditions change
+
+AMCR 2022-12-04 03:12:49.272439:
+Most recent Close price for AMCR: 12.5
+Tomorrow's Predicted Close Price for AMCR: [[12.244688]]
+The following day after Tomorrow is Predicted Close Price for AMCR: [[12.249368]]
+Buy what you can tomorrow and sell it the following day
+
+CMS 2022-12-04 03:16:36.908443:
+Most recent Close price for CMS: 60.52000045776367
+Tomorrow's Predicted Close Price for CMS: [[61.048893]]
+The following day after Tomorrow is Predicted Close Price for CMS: [[61.065666]]
+Hold and buy what you can of CMS, prepare to sell if conditions change
+
+CFG 2022-12-04 03:20:25.095665:
+Most recent Close price for CFG: 41.70000076293945
+Tomorrow's Predicted Close Price for CFG: [[41.38054]]
+The following day after Tomorrow is Predicted Close Price for CFG: [[41.13148]]
+Sell all positions ASAP
+
+OMC 2022-12-04 03:24:10.606280:
+Most recent Close price for OMC: 78.6500015258789
+Tomorrow's Predicted Close Price for OMC: [[79.81031]]
+The following day after Tomorrow is Predicted Close Price for OMC: [[79.8649]]
+Hold and buy what you can of OMC, prepare to sell if conditions change
+
+MGM 2022-12-04 03:27:54.319498:
+Most recent Close price for MGM: 37.08000183105469
+Tomorrow's Predicted Close Price for MGM: [[36.665997]]
+The following day after Tomorrow is Predicted Close Price for MGM: [[36.633663]]
+Sell all positions ASAP
+
+AJG 2022-12-04 03:31:49.631252:
+Most recent Close price for AJG: 201.25999450683594
+Tomorrow's Predicted Close Price for AJG: [[197.4346]]
+The following day after Tomorrow is Predicted Close Price for AJG: [[197.69797]]
+Buy what you can tomorrow and sell it the following day
+
+MLM 2022-12-04 03:35:37.376837:
+Most recent Close price for MLM: 365.7300109863281
+Tomorrow's Predicted Close Price for MLM: [[363.83484]]
+The following day after Tomorrow is Predicted Close Price for MLM: [[364.2655]]
+Buy what you can tomorrow and sell it the following day
+
+CHD 2022-12-04 03:39:25.746502:
+Most recent Close price for CHD: 83.06999969482422
+Tomorrow's Predicted Close Price for CHD: [[80.43007]]
+The following day after Tomorrow is Predicted Close Price for CHD: [[80.92685]]
+Buy what you can tomorrow and sell it the following day
+
+NUE 2022-12-04 03:43:16.560672:
+Most recent Close price for NUE: 154.1999969482422
+Tomorrow's Predicted Close Price for NUE: [[145.7978]]
+The following day after Tomorrow is Predicted Close Price for NUE: [[145.38138]]
+Sell all positions ASAP
+
+K 2022-12-04 03:47:01.947871:
+Most recent Close price for K: 73.83000183105469
+Tomorrow's Predicted Close Price for K: [[72.994225]]
+The following day after Tomorrow is Predicted Close Price for K: [[72.893295]]
+Sell all positions ASAP
+
+HES 2022-12-04 03:50:46.473506:
+Most recent Close price for HES: 144.02000427246094
+Tomorrow's Predicted Close Price for HES: [[138.14111]]
+The following day after Tomorrow is Predicted Close Price for HES: [[135.34618]]
+Sell all positions ASAP
+
+TFX 2022-12-04 03:54:33.955127:
+Most recent Close price for TFX: 242.5800018310547
+Tomorrow's Predicted Close Price for TFX: [[235.03485]]
+The following day after Tomorrow is Predicted Close Price for TFX: [[237.81244]]
+Buy what you can tomorrow and sell it the following day
+
+EFX 2022-12-04 03:58:22.599812:
+Most recent Close price for EFX: 201.3800048828125
+Tomorrow's Predicted Close Price for EFX: [[196.20953]]
+The following day after Tomorrow is Predicted Close Price for EFX: [[197.58487]]
+Buy what you can tomorrow and sell it the following day
+
+DOV 2022-12-04 04:02:08.793446:
+Most recent Close price for DOV: 143.49000549316406
+Tomorrow's Predicted Close Price for DOV: [[139.09552]]
+The following day after Tomorrow is Predicted Close Price for DOV: [[139.17178]]
+Buy what you can tomorrow and sell it the following day
+
+PEAK 2022-12-04 04:05:55.840517:
+Most recent Close price for PEAK: 26.18000030517578
+Tomorrow's Predicted Close Price for PEAK: [[26.05586]]
+The following day after Tomorrow is Predicted Close Price for PEAK: [[25.971516]]
+Sell all positions ASAP
+
+RF 2022-12-04 04:10:02.835515:
+Most recent Close price for RF: 23.15999984741211
+Tomorrow's Predicted Close Price for RF: [[22.941143]]
+The following day after Tomorrow is Predicted Close Price for RF: [[22.908434]]
+Sell all positions ASAP
+
+BKR 2022-12-04 04:14:32.785998:
+Most recent Close price for BKR: 29.510000228881836
+Tomorrow's Predicted Close Price for BKR: [[28.582964]]
+The following day after Tomorrow is Predicted Close Price for BKR: [[28.733423]]
+Buy what you can tomorrow and sell it the following day
+
+CAG 2022-12-04 04:18:20.155098:
+Most recent Close price for CAG: 38.119998931884766
+Tomorrow's Predicted Close Price for CAG: [[37.58453]]
+The following day after Tomorrow is Predicted Close Price for CAG: [[37.484802]]
+Sell all positions ASAP
+
+LH 2022-12-04 04:22:07.816380:
+Most recent Close price for LH: 241.57000732421875
+Tomorrow's Predicted Close Price for LH: [[240.76942]]
+The following day after Tomorrow is Predicted Close Price for LH: [[241.10722]]
+Buy what you can tomorrow and sell it the following day
+
+LEN 2022-12-04 04:25:50.096795:
+Most recent Close price for LEN: 88.30000305175781
+Tomorrow's Predicted Close Price for LEN: [[87.47389]]
+The following day after Tomorrow is Predicted Close Price for LEN: [[87.55775]]
+Buy what you can tomorrow and sell it the following day
+
+COO 2022-12-04 04:29:35.941181:
+Most recent Close price for COO: 322.32000732421875
+Tomorrow's Predicted Close Price for COO: [[313.02908]]
+The following day after Tomorrow is Predicted Close Price for COO: [[314.60825]]
+Buy what you can tomorrow and sell it the following day
+
+CINF 2022-12-04 04:33:28.668508:
+Most recent Close price for CINF: 110.41000366210938
+Tomorrow's Predicted Close Price for CINF: [[110.71926]]
+The following day after Tomorrow is Predicted Close Price for CINF: [[111.09226]]
+Hold and buy what you can of CINF, prepare to sell if conditions change
+
+HBAN 2022-12-04 04:38:10.593776:
+Most recent Close price for HBAN: 15.460000038146973
+Tomorrow's Predicted Close Price for HBAN: [[15.671]]
+The following day after Tomorrow is Predicted Close Price for HBAN: [[15.729852]]
+Hold and buy what you can of HBAN, prepare to sell if conditions change
+
+INCY 2022-12-04 04:41:54.125868:
+Most recent Close price for INCY: 83.12999725341797
+Tomorrow's Predicted Close Price for INCY: [[82.50766]]
+The following day after Tomorrow is Predicted Close Price for INCY: [[83.26244]]
+Buy what you can tomorrow and sell it the following day
+
+GPC 2022-12-04 04:45:39.499499:
+Most recent Close price for GPC: 187.27999877929688
+Tomorrow's Predicted Close Price for GPC: [[184.9812]]
+The following day after Tomorrow is Predicted Close Price for GPC: [[185.53084]]
+Buy what you can tomorrow and sell it the following day
+
+CE 2022-12-04 04:49:26.095683:
+Most recent Close price for CE: 109.11000061035156
+Tomorrow's Predicted Close Price for CE: [[107.04121]]
+The following day after Tomorrow is Predicted Close Price for CE: [[107.86594]]
+Buy what you can tomorrow and sell it the following day
+
+FTNT 2022-12-04 04:53:09.200872:
+Most recent Close price for FTNT: 53.61000061035156
+Tomorrow's Predicted Close Price for FTNT: [[51.19301]]
+The following day after Tomorrow is Predicted Close Price for FTNT: [[51.175697]]
+Sell all positions ASAP
+
+CAH 2022-12-04 04:56:54.582118:
+Most recent Close price for CAH: 80.87999725341797
+Tomorrow's Predicted Close Price for CAH: [[81.905396]]
+The following day after Tomorrow is Predicted Close Price for CAH: [[82.90886]]
+Hold and buy what you can of CAH, prepare to sell if conditions change
+
+WAT 2022-12-04 05:00:43.357337:
+Most recent Close price for WAT: 347.3699951171875
+Tomorrow's Predicted Close Price for WAT: [[342.83432]]
+The following day after Tomorrow is Predicted Close Price for WAT: [[344.45132]]
+Buy what you can tomorrow and sell it the following day
+
+EXPE 2022-12-04 05:04:26.942299:
+Most recent Close price for EXPE: 103.69000244140625
+Tomorrow's Predicted Close Price for EXPE: [[109.37462]]
+The following day after Tomorrow is Predicted Close Price for EXPE: [[110.584984]]
+Hold and buy what you can of EXPE, prepare to sell if conditions change
+
+GWW 2022-12-04 05:08:11.382936:
+Most recent Close price for GWW: 602.0800170898438
+Tomorrow's Predicted Close Price for GWW: [[603.91644]]
+The following day after Tomorrow is Predicted Close Price for GWW: [[605.29816]]
+Hold and buy what you can of GWW, prepare to sell if conditions change
+
+FANG 2022-12-04 05:12:00.231058:
+Most recent Close price for FANG: 145.4600067138672
+Tomorrow's Predicted Close Price for FANG: [[146.8145]]
+The following day after Tomorrow is Predicted Close Price for FANG: [[147.10106]]
+Hold and buy what you can of FANG, prepare to sell if conditions change
+
+MAA 2022-12-04 05:16:07.188229:
+Most recent Close price for MAA: 164.25999450683594
+Tomorrow's Predicted Close Price for MAA: [[164.59483]]
+The following day after Tomorrow is Predicted Close Price for MAA: [[165.29924]]
+Hold and buy what you can of MAA, prepare to sell if conditions change
+
+KMX 2022-12-04 05:19:54.082168:
+Most recent Close price for KMX: 69.58999633789062
+Tomorrow's Predicted Close Price for KMX: [[69.12462]]
+The following day after Tomorrow is Predicted Close Price for KMX: [[69.66721]]
+Buy what you can tomorrow and sell it the following day
+
+EVRG 2022-12-04 05:23:37.923192:
+Most recent Close price for EVRG: 58.5
+Tomorrow's Predicted Close Price for EVRG: [[58.296406]]
+The following day after Tomorrow is Predicted Close Price for EVRG: [[58.180687]]
+Sell all positions ASAP
+
+ULTA 2022-12-04 05:27:21.760318:
+Most recent Close price for ULTA: 471.3299865722656
+Tomorrow's Predicted Close Price for ULTA: [[462.31995]]
+The following day after Tomorrow is Predicted Close Price for ULTA: [[459.98605]]
+Sell all positions ASAP
+
+WAB 2022-12-04 05:31:05.431869:
+Most recent Close price for WAB: 103.37999725341797
+Tomorrow's Predicted Close Price for WAB: [[101.78038]]
+The following day after Tomorrow is Predicted Close Price for WAB: [[101.38847]]
+Sell all positions ASAP
+
+GRMN 2022-12-04 05:34:50.962782:
+Most recent Close price for GRMN: 94.31999969482422
+Tomorrow's Predicted Close Price for GRMN: [[93.77596]]
+The following day after Tomorrow is Predicted Close Price for GRMN: [[94.63132]]
+Buy what you can tomorrow and sell it the following day
+
+DGX 2022-12-04 05:38:35.346582:
+Most recent Close price for DGX: 150.4600067138672
+Tomorrow's Predicted Close Price for DGX: [[150.0617]]
+The following day after Tomorrow is Predicted Close Price for DGX: [[149.80968]]
+Sell all positions ASAP
+
+PFG 2022-12-04 05:42:26.566909:
+Most recent Close price for PFG: 92.18000030517578
+Tomorrow's Predicted Close Price for PFG: [[89.83389]]
+The following day after Tomorrow is Predicted Close Price for PFG: [[90.01711]]
+Buy what you can tomorrow and sell it the following day
+
+AKAM 2022-12-04 05:46:09.744454:
+Most recent Close price for AKAM: 93.79000091552734
+Tomorrow's Predicted Close Price for AKAM: [[93.83577]]
+The following day after Tomorrow is Predicted Close Price for AKAM: [[94.172165]]
+Hold and buy what you can of AKAM, prepare to sell if conditions change
+
+MKTX 2022-12-04 05:49:51.338357:
+Most recent Close price for MKTX: 281.1600036621094
+Tomorrow's Predicted Close Price for MKTX: [[266.28082]]
+The following day after Tomorrow is Predicted Close Price for MKTX: [[270.27618]]
+Buy what you can tomorrow and sell it the following day
+
+XYL 2022-12-04 05:53:35.619531:
+Most recent Close price for XYL: 113.52999877929688
+Tomorrow's Predicted Close Price for XYL: [[111.438736]]
+The following day after Tomorrow is Predicted Close Price for XYL: [[111.830696]]
+Buy what you can tomorrow and sell it the following day
+
+STX 2022-12-04 05:57:17.978474:
+Most recent Close price for STX: 52.970001220703125
+Tomorrow's Predicted Close Price for STX: [[51.713863]]
+The following day after Tomorrow is Predicted Close Price for STX: [[51.608486]]
+Sell all positions ASAP
+
+BR 2022-12-04 06:01:08.176538:
+Most recent Close price for BR: 148.99000549316406
+Tomorrow's Predicted Close Price for BR: [[148.86281]]
+The following day after Tomorrow is Predicted Close Price for BR: [[149.08557]]
+Buy what you can tomorrow and sell it the following day
+
+NTAP 2022-12-04 06:05:09.287494:
+Most recent Close price for NTAP: 66.43000030517578
+Tomorrow's Predicted Close Price for NTAP: [[66.81483]]
+The following day after Tomorrow is Predicted Close Price for NTAP: [[65.913475]]
+Sell all positions Tomorrow
+
+HOLX 2022-12-04 06:08:54.537774:
+Most recent Close price for HOLX: 76.5
+Tomorrow's Predicted Close Price for HOLX: [[74.70192]]
+The following day after Tomorrow is Predicted Close Price for HOLX: [[74.59399]]
+Sell all positions ASAP
+
+MAS 2022-12-04 06:12:41.129731:
+Most recent Close price for MAS: 50.91999816894531
+Tomorrow's Predicted Close Price for MAS: [[51.099926]]
+The following day after Tomorrow is Predicted Close Price for MAS: [[51.298275]]
+Hold and buy what you can of MAS, prepare to sell if conditions change
+
+TTWO 2022-12-04 06:16:26.971574:
+Most recent Close price for TTWO: 108.76000213623047
+Tomorrow's Predicted Close Price for TTWO: [[106.207924]]
+The following day after Tomorrow is Predicted Close Price for TTWO: [[107.18698]]
+Buy what you can tomorrow and sell it the following day
+
+ZBRA 2022-12-04 06:20:13.064718:
+Most recent Close price for ZBRA: 274.8599853515625
+Tomorrow's Predicted Close Price for ZBRA: [[281.2646]]
+The following day after Tomorrow is Predicted Close Price for ZBRA: [[282.95444]]
+Hold and buy what you can of ZBRA, prepare to sell if conditions change
+
+HST 2022-12-04 06:23:58.554301:
+Most recent Close price for HST: 18.56999969482422
+Tomorrow's Predicted Close Price for HST: [[18.596931]]
+The following day after Tomorrow is Predicted Close Price for HST: [[18.512815]]
+Sell all positions Tomorrow
+
+QRVO 2022-12-04 06:27:42.251173:
+Most recent Close price for QRVO: 97.19000244140625
+Tomorrow's Predicted Close Price for QRVO: [[95.21572]]
+The following day after Tomorrow is Predicted Close Price for QRVO: [[95.359116]]
+Buy what you can tomorrow and sell it the following day

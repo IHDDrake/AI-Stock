@@ -1,0 +1,17 @@
+MSFT 2022-12-08 20:40:38.582445:
+Most recent Close price for MSFT: 247.39999389648438
+Tomorrow's Predicted Close Price for MSFT: [[248.42271]]
+The following day after Tomorrow is Predicted Close Price for MSFT: [[248.16689]]
+Sell all positions Tomorrow
+
+AAPL 2022-12-07 21:06:35.046769:
+Similarity: [0.96138475]
+Accuracy: 0.5658582265655
+Most recent Close price for AAPL: 140.94399389648438
+Tomorrow's Predicted Close Price for AAPL: [[142.431315]]
+The following day after Tomorrow is Predicted Close Price for AAPL: [[141.73346]]
+Sell all positions Tomorrow
+
+
+
+
